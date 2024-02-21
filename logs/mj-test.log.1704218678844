@@ -1,0 +1,1777 @@
+INFO  19:04:09,940 - Compiling source file: C:\Users\Laptop\Desktop\pp1\workspace\MJCompiler\test\program.mj
+INFO  19:04:10,020 - #2 program
+INFO  19:04:10,020 - #45 test301
+INFO  19:04:10,020 - #17 namespace
+INFO  19:04:10,022 - #45 Konstante
+INFO  19:04:10,022 - #42 {
+INFO  19:04:10,023 - #6 const
+INFO  19:04:10,024 - #45 int
+INFO  19:04:10,024 - #45 nula
+INFO  19:04:10,027 - #31 =
+INFO  19:04:10,027 - #48 0
+INFO  19:04:10,028 - #34 ;
+INFO  19:04:10,029 - #6 const
+INFO  19:04:10,030 - #45 int
+INFO  19:04:10,030 - #45 jedan
+INFO  19:04:10,031 - #31 =
+INFO  19:04:10,031 - #48 1
+INFO  19:04:10,031 - #34 ;
+INFO  19:04:10,031 - #6 const
+INFO  19:04:10,031 - #45 int
+INFO  19:04:10,031 - #45 pet
+INFO  19:04:10,032 - #31 =
+INFO  19:04:10,032 - #48 5
+INFO  19:04:10,032 - #34 ;
+INFO  19:04:10,032 - #42 {
+INFO  19:04:10,033 - #43 }
+INFO  19:04:10,034 - #43 }
+INFO  19:04:10,034 - #17 namespace
+INFO  19:04:10,035 - #45 Nizovi
+INFO  19:04:10,036 - #42 {
+INFO  19:04:10,036 - #45 int
+INFO  19:04:10,036 - #45 niz
+INFO  19:04:10,037 - #40 [
+INFO  19:04:10,038 - #41 ]
+INFO  19:04:10,038 - #34 ;
+INFO  19:04:10,040 - #45 char
+INFO  19:04:10,042 - #45 nizch
+INFO  19:04:10,042 - #40 [
+INFO  19:04:10,042 - #41 ]
+INFO  19:04:10,043 - #34 ;
+INFO  19:04:10,043 - #42 {
+INFO  19:04:10,043 - #43 }
+INFO  19:04:10,043 - #43 }
+INFO  19:04:10,043 - #45 int
+INFO  19:04:10,044 - #45 a
+INFO  19:04:10,044 - #34 ;
+INFO  19:04:10,045 - #42 {
+INFO  19:04:10,045 - #12 void
+INFO  19:04:10,045 - #45 main
+INFO  19:04:10,048 - #38 (
+INFO  19:04:10,049 - #39 )
+INFO  19:04:10,049 - #45 int
+INFO  19:04:10,050 - #45 bodovi
+INFO  19:04:10,050 - #34 ;
+INFO  19:04:10,050 - #45 bool
+INFO  19:04:10,051 - #45 bt
+INFO  19:04:10,051 - #34 ;
+INFO  19:04:10,051 - #42 {
+INFO  19:04:10,051 - #45 bodovi
+INFO  19:04:10,052 - #31 =
+INFO  19:04:10,054 - #48 5
+INFO  19:04:10,056 - #34 ;
+INFO  19:04:10,059 - #45 bodovi
+INFO  19:04:10,059 - #32 ++
+INFO  19:04:10,060 - #34 ;
+INFO  19:04:10,061 - #45 bodovi
+INFO  19:04:10,061 - #31 =
+INFO  19:04:10,061 - #45 bodovi
+INFO  19:04:10,061 - #18 +
+INFO  19:04:10,063 - #45 Konstante
+INFO  19:04:10,064 - #35 :
+INFO  19:04:10,064 - #35 :
+INFO  19:04:10,064 - #45 jedan
+INFO  19:04:10,064 - #34 ;
+INFO  19:04:10,065 - #45 bodovi
+INFO  19:04:10,065 - #31 =
+INFO  19:04:10,065 - #45 bodovi
+INFO  19:04:10,065 - #20 *
+INFO  19:04:10,065 - #45 Konstante
+INFO  19:04:10,067 - #35 :
+INFO  19:04:10,067 - #35 :
+INFO  19:04:10,067 - #45 pet
+INFO  19:04:10,067 - #34 ;
+INFO  19:04:10,067 - #45 bodovi
+INFO  19:04:10,067 - #33 --
+INFO  19:04:10,067 - #34 ;
+INFO  19:04:10,070 - #9 print
+INFO  19:04:10,070 - #38 (
+INFO  19:04:10,070 - #45 bodovi
+INFO  19:04:10,070 - #39 )
+INFO  19:04:10,071 - #34 ;
+INFO  19:04:10,071 - #45 Nizovi
+INFO  19:04:10,072 - #35 :
+INFO  19:04:10,072 - #35 :
+INFO  19:04:10,072 - #45 niz
+INFO  19:04:10,072 - #31 =
+INFO  19:04:10,072 - #8 new
+INFO  19:04:10,072 - #45 int
+INFO  19:04:10,072 - #40 [
+INFO  19:04:10,073 - #48 3
+INFO  19:04:10,073 - #41 ]
+INFO  19:04:10,073 - #34 ;
+INFO  19:04:10,073 - #45 Nizovi
+INFO  19:04:10,073 - #35 :
+INFO  19:04:10,073 - #35 :
+INFO  19:04:10,074 - #45 niz
+INFO  19:04:10,074 - #40 [
+INFO  19:04:10,074 - #45 Konstante
+INFO  19:04:10,074 - #35 :
+INFO  19:04:10,074 - #35 :
+INFO  19:04:10,074 - #45 nula
+INFO  19:04:10,074 - #41 ]
+INFO  19:04:10,074 - #31 =
+INFO  19:04:10,075 - #45 Konstante
+INFO  19:04:10,075 - #35 :
+INFO  19:04:10,075 - #35 :
+INFO  19:04:10,075 - #45 jedan
+INFO  19:04:10,075 - #34 ;
+INFO  19:04:10,075 - #45 Nizovi
+INFO  19:04:10,075 - #35 :
+INFO  19:04:10,076 - #35 :
+INFO  19:04:10,076 - #45 niz
+INFO  19:04:10,076 - #40 [
+INFO  19:04:10,076 - #48 1
+INFO  19:04:10,076 - #41 ]
+INFO  19:04:10,076 - #31 =
+INFO  19:04:10,076 - #48 2
+INFO  19:04:10,076 - #34 ;
+INFO  19:04:10,077 - #45 Nizovi
+INFO  19:04:10,077 - #35 :
+INFO  19:04:10,077 - #35 :
+INFO  19:04:10,077 - #45 niz
+INFO  19:04:10,077 - #40 [
+INFO  19:04:10,077 - #45 Nizovi
+INFO  19:04:10,077 - #35 :
+INFO  19:04:10,077 - #35 :
+INFO  19:04:10,078 - #45 niz
+INFO  19:04:10,078 - #40 [
+INFO  19:04:10,078 - #45 Konstante
+INFO  19:04:10,078 - #35 :
+INFO  19:04:10,078 - #35 :
+INFO  19:04:10,078 - #45 jedan
+INFO  19:04:10,078 - #41 ]
+INFO  19:04:10,078 - #41 ]
+INFO  19:04:10,078 - #31 =
+INFO  19:04:10,079 - #45 Nizovi
+INFO  19:04:10,079 - #35 :
+INFO  19:04:10,079 - #35 :
+INFO  19:04:10,079 - #45 niz
+INFO  19:04:10,079 - #40 [
+INFO  19:04:10,079 - #45 Nizovi
+INFO  19:04:10,079 - #35 :
+INFO  19:04:10,079 - #35 :
+INFO  19:04:10,080 - #45 niz
+INFO  19:04:10,080 - #40 [
+INFO  19:04:10,080 - #48 0
+INFO  19:04:10,080 - #41 ]
+INFO  19:04:10,080 - #41 ]
+INFO  19:04:10,080 - #20 *
+INFO  19:04:10,080 - #48 3
+INFO  19:04:10,080 - #34 ;
+INFO  19:04:10,080 - #45 bodovi
+INFO  19:04:10,081 - #31 =
+INFO  19:04:10,081 - #45 Nizovi
+INFO  19:04:10,081 - #35 :
+INFO  19:04:10,081 - #35 :
+INFO  19:04:10,081 - #45 niz
+INFO  19:04:10,081 - #40 [
+INFO  19:04:10,081 - #48 2
+INFO  19:04:10,081 - #41 ]
+INFO  19:04:10,082 - #21 /
+INFO  19:04:10,082 - #45 Nizovi
+INFO  19:04:10,083 - #35 :
+INFO  19:04:10,083 - #35 :
+INFO  19:04:10,083 - #45 niz
+INFO  19:04:10,083 - #40 [
+INFO  19:04:10,083 - #48 0
+INFO  19:04:10,083 - #41 ]
+INFO  19:04:10,083 - #34 ;
+INFO  19:04:10,084 - #9 print
+INFO  19:04:10,084 - #38 (
+INFO  19:04:10,084 - #45 bodovi
+INFO  19:04:10,084 - #39 )
+INFO  19:04:10,084 - #34 ;
+INFO  19:04:10,084 - #9 print
+INFO  19:04:10,084 - #38 (
+INFO  19:04:10,084 - #45 Nizovi
+INFO  19:04:10,085 - #35 :
+INFO  19:04:10,085 - #35 :
+INFO  19:04:10,085 - #45 niz
+INFO  19:04:10,085 - #40 [
+INFO  19:04:10,085 - #48 2
+INFO  19:04:10,085 - #41 ]
+INFO  19:04:10,085 - #39 )
+INFO  19:04:10,085 - #34 ;
+INFO  19:04:10,086 - #45 Nizovi
+INFO  19:04:10,086 - #35 :
+INFO  19:04:10,086 - #35 :
+INFO  19:04:10,086 - #45 nizch
+INFO  19:04:10,086 - #31 =
+INFO  19:04:10,086 - #8 new
+INFO  19:04:10,086 - #45 char
+INFO  19:04:10,086 - #40 [
+INFO  19:04:10,087 - #48 3
+INFO  19:04:10,087 - #41 ]
+INFO  19:04:10,087 - #34 ;
+INFO  19:04:10,087 - #45 Nizovi
+INFO  19:04:10,087 - #35 :
+INFO  19:04:10,087 - #35 :
+INFO  19:04:10,087 - #45 nizch
+INFO  19:04:10,087 - #40 [
+INFO  19:04:10,087 - #48 0
+INFO  19:04:10,087 - #41 ]
+INFO  19:04:10,087 - #31 =
+INFO  19:04:10,088 - #47 a
+INFO  19:04:10,088 - #34 ;
+INFO  19:04:10,088 - #45 Nizovi
+INFO  19:04:10,088 - #35 :
+INFO  19:04:10,088 - #35 :
+INFO  19:04:10,088 - #45 nizch
+INFO  19:04:10,088 - #40 [
+INFO  19:04:10,088 - #45 Konstante
+INFO  19:04:10,088 - #35 :
+INFO  19:04:10,088 - #35 :
+INFO  19:04:10,088 - #45 jedan
+INFO  19:04:10,088 - #41 ]
+INFO  19:04:10,088 - #31 =
+INFO  19:04:10,089 - #47 b
+INFO  19:04:10,089 - #34 ;
+INFO  19:04:10,089 - #45 Nizovi
+INFO  19:04:10,089 - #35 :
+INFO  19:04:10,089 - #35 :
+INFO  19:04:10,089 - #45 nizch
+INFO  19:04:10,089 - #40 [
+INFO  19:04:10,089 - #45 Konstante
+INFO  19:04:10,089 - #35 :
+INFO  19:04:10,089 - #35 :
+INFO  19:04:10,089 - #45 pet
+INFO  19:04:10,089 - #19 -
+INFO  19:04:10,090 - #48 3
+INFO  19:04:10,090 - #41 ]
+INFO  19:04:10,090 - #31 =
+INFO  19:04:10,090 - #47 c
+INFO  19:04:10,090 - #34 ;
+INFO  19:04:10,090 - #9 print
+INFO  19:04:10,091 - #38 (
+INFO  19:04:10,091 - #45 Nizovi
+INFO  19:04:10,091 - #35 :
+INFO  19:04:10,091 - #35 :
+INFO  19:04:10,091 - #45 nizch
+INFO  19:04:10,091 - #40 [
+INFO  19:04:10,091 - #48 1
+INFO  19:04:10,091 - #41 ]
+INFO  19:04:10,091 - #39 )
+INFO  19:04:10,091 - #34 ;
+INFO  19:04:10,091 - #9 print
+INFO  19:04:10,091 - #38 (
+INFO  19:04:10,091 - #45 Nizovi
+INFO  19:04:10,092 - #35 :
+INFO  19:04:10,092 - #35 :
+INFO  19:04:10,092 - #45 nizch
+INFO  19:04:10,092 - #40 [
+INFO  19:04:10,092 - #45 Konstante
+INFO  19:04:10,092 - #35 :
+INFO  19:04:10,092 - #35 :
+INFO  19:04:10,092 - #45 jedan
+INFO  19:04:10,093 - #20 *
+INFO  19:04:10,093 - #48 2
+INFO  19:04:10,093 - #41 ]
+INFO  19:04:10,093 - #39 )
+INFO  19:04:10,093 - #34 ;
+INFO  19:04:10,093 - #45 a
+INFO  19:04:10,093 - #31 =
+INFO  19:04:10,094 - #48 1
+INFO  19:04:10,094 - #34 ;
+INFO  19:04:10,094 - #10 read
+INFO  19:04:10,094 - #38 (
+INFO  19:04:10,094 - #45 bodovi
+INFO  19:04:10,094 - #39 )
+INFO  19:04:10,095 - #34 ;
+INFO  19:04:10,095 - #45 bodovi
+INFO  19:04:10,095 - #31 =
+INFO  19:04:10,095 - #19 -
+INFO  19:04:10,095 - #45 bodovi
+INFO  19:04:10,096 - #18 +
+INFO  19:04:10,096 - #38 (
+INFO  19:04:10,096 - #45 Konstante
+INFO  19:04:10,096 - #35 :
+INFO  19:04:10,096 - #35 :
+INFO  19:04:10,096 - #45 pet
+INFO  19:04:10,097 - #20 *
+INFO  19:04:10,097 - #45 a
+INFO  19:04:10,097 - #21 /
+INFO  19:04:10,097 - #48 2
+INFO  19:04:10,097 - #19 -
+INFO  19:04:10,097 - #45 Konstante
+INFO  19:04:10,097 - #35 :
+INFO  19:04:10,097 - #35 :
+INFO  19:04:10,097 - #45 jedan
+INFO  19:04:10,097 - #39 )
+INFO  19:04:10,097 - #20 *
+INFO  19:04:10,098 - #45 bodovi
+INFO  19:04:10,098 - #19 -
+INFO  19:04:10,098 - #38 (
+INFO  19:04:10,098 - #48 3
+INFO  19:04:10,098 - #22 %
+INFO  19:04:10,098 - #48 2
+INFO  19:04:10,099 - #18 +
+INFO  19:04:10,099 - #48 3
+INFO  19:04:10,099 - #20 *
+INFO  19:04:10,100 - #48 2
+INFO  19:04:10,100 - #19 -
+INFO  19:04:10,100 - #48 3
+INFO  19:04:10,100 - #39 )
+INFO  19:04:10,100 - #34 ;
+INFO  19:04:10,100 - #9 print
+INFO  19:04:10,100 - #38 (
+INFO  19:04:10,100 - #45 bodovi
+INFO  19:04:10,100 - #39 )
+INFO  19:04:10,101 - #34 ;
+INFO  19:04:10,101 - #43 }
+INFO  19:04:10,101 - #43 }
+INFO  19:04:10,143 - Program(
+  Progname(
+   test301
+  ) [Progname]
+  NmespaceList(
+    NmespaceList(
+      NoNamespaceList(
+      ) [NoNamespaceList]
+      Namespace(
+        NamespaceName(
+         Konstante
+        ) [NamespaceName]
+        DclList(
+          DclList(
+            DclList(
+              NoDeclList(
+              ) [NoDeclList]
+              DclConstClass(
+                ConstD(
+                  ConstType(
+                    Type(
+                     int
+                      NoIdenL(
+                      ) [NoIdenL]
+                    ) [Type]
+                  ) [ConstType]
+                 nula
+                  ConstantNUM(
+                   0
+                  ) [ConstantNUM]
+                  NoConstDList(
+                  ) [NoConstDList]
+                ) [ConstD]
+              ) [DclConstClass]
+            ) [DclList]
+            DclConstClass(
+              ConstD(
+                ConstType(
+                  Type(
+                   int
+                    NoIdenL(
+                    ) [NoIdenL]
+                  ) [Type]
+                ) [ConstType]
+               jedan
+                ConstantNUM(
+                 1
+                ) [ConstantNUM]
+                NoConstDList(
+                ) [NoConstDList]
+              ) [ConstD]
+            ) [DclConstClass]
+          ) [DclList]
+          DclConstClass(
+            ConstD(
+              ConstType(
+                Type(
+                 int
+                  NoIdenL(
+                  ) [NoIdenL]
+                ) [Type]
+              ) [ConstType]
+             pet
+              ConstantNUM(
+               5
+              ) [ConstantNUM]
+              NoConstDList(
+              ) [NoConstDList]
+            ) [ConstD]
+          ) [DclConstClass]
+        ) [DclList]
+        NoMethList(
+        ) [NoMethList]
+      ) [Namespace]
+    ) [NmespaceList]
+    Namespace(
+      NamespaceName(
+       Nizovi
+      ) [NamespaceName]
+      DclList(
+        DclList(
+          NoDeclList(
+          ) [NoDeclList]
+          DclVarClass(
+            VarD(
+              VarType(
+                Type(
+                 int
+                  NoIdenL(
+                  ) [NoIdenL]
+                ) [Type]
+              ) [VarType]
+             niz
+              Brckets(
+              ) [Brckets]
+              NoVarDList(
+              ) [NoVarDList]
+            ) [VarD]
+          ) [DclVarClass]
+        ) [DclList]
+        DclVarClass(
+          VarD(
+            VarType(
+              Type(
+               char
+                NoIdenL(
+                ) [NoIdenL]
+              ) [Type]
+            ) [VarType]
+           nizch
+            Brckets(
+            ) [Brckets]
+            NoVarDList(
+            ) [NoVarDList]
+          ) [VarD]
+        ) [DclVarClass]
+      ) [DclList]
+      NoMethList(
+      ) [NoMethList]
+    ) [Namespace]
+  ) [NmespaceList]
+  DclList(
+    NoDeclList(
+    ) [NoDeclList]
+    DclVarClass(
+      VarD(
+        VarType(
+          Type(
+           int
+            NoIdenL(
+            ) [NoIdenL]
+          ) [Type]
+        ) [VarType]
+       a
+        NoBrackets(
+        ) [NoBrackets]
+        NoVarDList(
+        ) [NoVarDList]
+      ) [VarD]
+    ) [DclVarClass]
+  ) [DclList]
+  MthList(
+    NoMethList(
+    ) [NoMethList]
+    MethodDecl(
+      MethodName(
+        TypeListVoid(
+        ) [TypeListVoid]
+       main
+      ) [MethodName]
+      NoFormList(
+      ) [NoFormList]
+      VarDeclLst(
+        VarDeclLst(
+          NoVarDeclList(
+          ) [NoVarDeclList]
+          VarD(
+            VarType(
+              Type(
+               int
+                NoIdenL(
+                ) [NoIdenL]
+              ) [Type]
+            ) [VarType]
+           bodovi
+            NoBrackets(
+            ) [NoBrackets]
+            NoVarDList(
+            ) [NoVarDList]
+          ) [VarD]
+        ) [VarDeclLst]
+        VarD(
+          VarType(
+            Type(
+             bool
+              NoIdenL(
+              ) [NoIdenL]
+            ) [Type]
+          ) [VarType]
+         bt
+          NoBrackets(
+          ) [NoBrackets]
+          NoVarDList(
+          ) [NoVarDList]
+        ) [VarD]
+      ) [VarDeclLst]
+      StatL(
+        StatL(
+          StatL(
+            StatL(
+              StatL(
+                StatL(
+                  StatL(
+                    StatL(
+                      StatL(
+                        StatL(
+                          StatL(
+                            StatL(
+                              StatL(
+                                StatL(
+                                  StatL(
+                                    StatL(
+                                      StatL(
+                                        StatL(
+                                          StatL(
+                                            StatL(
+                                              StatL(
+                                                StatL(
+                                                  StatL(
+                                                    NoStateL(
+                                                    ) [NoStateL]
+                                                    StatementDesignatorStatement(
+                                                      StatementEquals(
+                                                        DesignatorStatement1(
+                                                          Designator(
+                                                           bodovi
+                                                            NoIdenL(
+                                                            ) [NoIdenL]
+                                                            NoDesigRep(
+                                                            ) [NoDesigRep]
+                                                          ) [Designator]
+                                                          DSChoose1(
+                                                            AssignopEq(
+                                                            ) [AssignopEq]
+                                                            Expr(
+                                                              NoMinOpt(
+                                                              ) [NoMinOpt]
+                                                              SingleTerm(
+                                                                Term(
+                                                                  NoMulopFOpt(
+                                                                    Factor2(
+                                                                     5
+                                                                    ) [Factor2]
+                                                                  ) [NoMulopFOpt]
+                                                                ) [Term]
+                                                              ) [SingleTerm]
+                                                            ) [Expr]
+                                                          ) [DSChoose1]
+                                                        ) [DesignatorStatement1]
+                                                      ) [StatementEquals]
+                                                    ) [StatementDesignatorStatement]
+                                                  ) [StatL]
+                                                  StatementDesignatorStatement(
+                                                    StatementEquals(
+                                                      DesignatorStatement1(
+                                                        Designator(
+                                                         bodovi
+                                                          NoIdenL(
+                                                          ) [NoIdenL]
+                                                          NoDesigRep(
+                                                          ) [NoDesigRep]
+                                                        ) [Designator]
+                                                        DSChoose3(
+                                                        ) [DSChoose3]
+                                                      ) [DesignatorStatement1]
+                                                    ) [StatementEquals]
+                                                  ) [StatementDesignatorStatement]
+                                                ) [StatL]
+                                                StatementDesignatorStatement(
+                                                  StatementEquals(
+                                                    DesignatorStatement1(
+                                                      Designator(
+                                                       bodovi
+                                                        NoIdenL(
+                                                        ) [NoIdenL]
+                                                        NoDesigRep(
+                                                        ) [NoDesigRep]
+                                                      ) [Designator]
+                                                      DSChoose1(
+                                                        AssignopEq(
+                                                        ) [AssignopEq]
+                                                        Expr(
+                                                          NoMinOpt(
+                                                          ) [NoMinOpt]
+                                                          TermList(
+                                                            SingleTerm(
+                                                              Term(
+                                                                NoMulopFOpt(
+                                                                  Factor1(
+                                                                    Designator(
+                                                                     bodovi
+                                                                      NoIdenL(
+                                                                      ) [NoIdenL]
+                                                                      NoDesigRep(
+                                                                      ) [NoDesigRep]
+                                                                    ) [Designator]
+                                                                    NoFactOpt1(
+                                                                    ) [NoFactOpt1]
+                                                                  ) [Factor1]
+                                                                ) [NoMulopFOpt]
+                                                              ) [Term]
+                                                            ) [SingleTerm]
+                                                            AddopP(
+                                                            ) [AddopP]
+                                                            Term(
+                                                              NoMulopFOpt(
+                                                                Factor1(
+                                                                  Designator(
+                                                                   Konstante
+                                                                    IdenLi(
+                                                                     jedan
+                                                                    ) [IdenLi]
+                                                                    NoDesigRep(
+                                                                    ) [NoDesigRep]
+                                                                  ) [Designator]
+                                                                  NoFactOpt1(
+                                                                  ) [NoFactOpt1]
+                                                                ) [Factor1]
+                                                              ) [NoMulopFOpt]
+                                                            ) [Term]
+                                                          ) [TermList]
+                                                        ) [Expr]
+                                                      ) [DSChoose1]
+                                                    ) [DesignatorStatement1]
+                                                  ) [StatementEquals]
+                                                ) [StatementDesignatorStatement]
+                                              ) [StatL]
+                                              StatementDesignatorStatement(
+                                                StatementEquals(
+                                                  DesignatorStatement1(
+                                                    Designator(
+                                                     bodovi
+                                                      NoIdenL(
+                                                      ) [NoIdenL]
+                                                      NoDesigRep(
+                                                      ) [NoDesigRep]
+                                                    ) [Designator]
+                                                    DSChoose1(
+                                                      AssignopEq(
+                                                      ) [AssignopEq]
+                                                      Expr(
+                                                        NoMinOpt(
+                                                        ) [NoMinOpt]
+                                                        SingleTerm(
+                                                          Term(
+                                                            MulopFOptYes(
+                                                              NoMulopFOpt(
+                                                                Factor1(
+                                                                  Designator(
+                                                                   bodovi
+                                                                    NoIdenL(
+                                                                    ) [NoIdenL]
+                                                                    NoDesigRep(
+                                                                    ) [NoDesigRep]
+                                                                  ) [Designator]
+                                                                  NoFactOpt1(
+                                                                  ) [NoFactOpt1]
+                                                                ) [Factor1]
+                                                              ) [NoMulopFOpt]
+                                                              MulopML(
+                                                              ) [MulopML]
+                                                              Factor1(
+                                                                Designator(
+                                                                 Konstante
+                                                                  IdenLi(
+                                                                   pet
+                                                                  ) [IdenLi]
+                                                                  NoDesigRep(
+                                                                  ) [NoDesigRep]
+                                                                ) [Designator]
+                                                                NoFactOpt1(
+                                                                ) [NoFactOpt1]
+                                                              ) [Factor1]
+                                                            ) [MulopFOptYes]
+                                                          ) [Term]
+                                                        ) [SingleTerm]
+                                                      ) [Expr]
+                                                    ) [DSChoose1]
+                                                  ) [DesignatorStatement1]
+                                                ) [StatementEquals]
+                                              ) [StatementDesignatorStatement]
+                                            ) [StatL]
+                                            StatementDesignatorStatement(
+                                              StatementEquals(
+                                                DesignatorStatement1(
+                                                  Designator(
+                                                   bodovi
+                                                    NoIdenL(
+                                                    ) [NoIdenL]
+                                                    NoDesigRep(
+                                                    ) [NoDesigRep]
+                                                  ) [Designator]
+                                                  DSChoose4(
+                                                  ) [DSChoose4]
+                                                ) [DesignatorStatement1]
+                                              ) [StatementEquals]
+                                            ) [StatementDesignatorStatement]
+                                          ) [StatL]
+                                          StatementPrint(
+                                            Expr(
+                                              NoMinOpt(
+                                              ) [NoMinOpt]
+                                              SingleTerm(
+                                                Term(
+                                                  NoMulopFOpt(
+                                                    Factor1(
+                                                      Designator(
+                                                       bodovi
+                                                        NoIdenL(
+                                                        ) [NoIdenL]
+                                                        NoDesigRep(
+                                                        ) [NoDesigRep]
+                                                      ) [Designator]
+                                                      NoFactOpt1(
+                                                      ) [NoFactOpt1]
+                                                    ) [Factor1]
+                                                  ) [NoMulopFOpt]
+                                                ) [Term]
+                                              ) [SingleTerm]
+                                            ) [Expr]
+                                            NoNN(
+                                            ) [NoNN]
+                                          ) [StatementPrint]
+                                        ) [StatL]
+                                        StatementDesignatorStatement(
+                                          StatementEquals(
+                                            DesignatorStatement1(
+                                              Designator(
+                                               Nizovi
+                                                IdenLi(
+                                                 niz
+                                                ) [IdenLi]
+                                                NoDesigRep(
+                                                ) [NoDesigRep]
+                                              ) [Designator]
+                                              DSChoose1(
+                                                AssignopEq(
+                                                ) [AssignopEq]
+                                                Expr(
+                                                  NoMinOpt(
+                                                  ) [NoMinOpt]
+                                                  SingleTerm(
+                                                    Term(
+                                                      NoMulopFOpt(
+                                                        Factor5(
+                                                          Type(
+                                                           int
+                                                            NoIdenL(
+                                                            ) [NoIdenL]
+                                                          ) [Type]
+                                                          FactorOr11(
+                                                            Expr(
+                                                              NoMinOpt(
+                                                              ) [NoMinOpt]
+                                                              SingleTerm(
+                                                                Term(
+                                                                  NoMulopFOpt(
+                                                                    Factor2(
+                                                                     3
+                                                                    ) [Factor2]
+                                                                  ) [NoMulopFOpt]
+                                                                ) [Term]
+                                                              ) [SingleTerm]
+                                                            ) [Expr]
+                                                          ) [FactorOr11]
+                                                        ) [Factor5]
+                                                      ) [NoMulopFOpt]
+                                                    ) [Term]
+                                                  ) [SingleTerm]
+                                                ) [Expr]
+                                              ) [DSChoose1]
+                                            ) [DesignatorStatement1]
+                                          ) [StatementEquals]
+                                        ) [StatementDesignatorStatement]
+                                      ) [StatL]
+                                      StatementDesignatorStatement(
+                                        StatementEquals(
+                                          DesignatorStatement1(
+                                            Designator(
+                                             Nizovi
+                                              IdenLi(
+                                               niz
+                                              ) [IdenLi]
+                                              DesigRepArray(
+                                                NoDesigRep(
+                                                ) [NoDesigRep]
+                                                Expr(
+                                                  NoMinOpt(
+                                                  ) [NoMinOpt]
+                                                  SingleTerm(
+                                                    Term(
+                                                      NoMulopFOpt(
+                                                        Factor1(
+                                                          Designator(
+                                                           Konstante
+                                                            IdenLi(
+                                                             nula
+                                                            ) [IdenLi]
+                                                            NoDesigRep(
+                                                            ) [NoDesigRep]
+                                                          ) [Designator]
+                                                          NoFactOpt1(
+                                                          ) [NoFactOpt1]
+                                                        ) [Factor1]
+                                                      ) [NoMulopFOpt]
+                                                    ) [Term]
+                                                  ) [SingleTerm]
+                                                ) [Expr]
+                                              ) [DesigRepArray]
+                                            ) [Designator]
+                                            DSChoose1(
+                                              AssignopEq(
+                                              ) [AssignopEq]
+                                              Expr(
+                                                NoMinOpt(
+                                                ) [NoMinOpt]
+                                                SingleTerm(
+                                                  Term(
+                                                    NoMulopFOpt(
+                                                      Factor1(
+                                                        Designator(
+                                                         Konstante
+                                                          IdenLi(
+                                                           jedan
+                                                          ) [IdenLi]
+                                                          NoDesigRep(
+                                                          ) [NoDesigRep]
+                                                        ) [Designator]
+                                                        NoFactOpt1(
+                                                        ) [NoFactOpt1]
+                                                      ) [Factor1]
+                                                    ) [NoMulopFOpt]
+                                                  ) [Term]
+                                                ) [SingleTerm]
+                                              ) [Expr]
+                                            ) [DSChoose1]
+                                          ) [DesignatorStatement1]
+                                        ) [StatementEquals]
+                                      ) [StatementDesignatorStatement]
+                                    ) [StatL]
+                                    StatementDesignatorStatement(
+                                      StatementEquals(
+                                        DesignatorStatement1(
+                                          Designator(
+                                           Nizovi
+                                            IdenLi(
+                                             niz
+                                            ) [IdenLi]
+                                            DesigRepArray(
+                                              NoDesigRep(
+                                              ) [NoDesigRep]
+                                              Expr(
+                                                NoMinOpt(
+                                                ) [NoMinOpt]
+                                                SingleTerm(
+                                                  Term(
+                                                    NoMulopFOpt(
+                                                      Factor2(
+                                                       1
+                                                      ) [Factor2]
+                                                    ) [NoMulopFOpt]
+                                                  ) [Term]
+                                                ) [SingleTerm]
+                                              ) [Expr]
+                                            ) [DesigRepArray]
+                                          ) [Designator]
+                                          DSChoose1(
+                                            AssignopEq(
+                                            ) [AssignopEq]
+                                            Expr(
+                                              NoMinOpt(
+                                              ) [NoMinOpt]
+                                              SingleTerm(
+                                                Term(
+                                                  NoMulopFOpt(
+                                                    Factor2(
+                                                     2
+                                                    ) [Factor2]
+                                                  ) [NoMulopFOpt]
+                                                ) [Term]
+                                              ) [SingleTerm]
+                                            ) [Expr]
+                                          ) [DSChoose1]
+                                        ) [DesignatorStatement1]
+                                      ) [StatementEquals]
+                                    ) [StatementDesignatorStatement]
+                                  ) [StatL]
+                                  StatementDesignatorStatement(
+                                    StatementEquals(
+                                      DesignatorStatement1(
+                                        Designator(
+                                         Nizovi
+                                          IdenLi(
+                                           niz
+                                          ) [IdenLi]
+                                          DesigRepArray(
+                                            NoDesigRep(
+                                            ) [NoDesigRep]
+                                            Expr(
+                                              NoMinOpt(
+                                              ) [NoMinOpt]
+                                              SingleTerm(
+                                                Term(
+                                                  NoMulopFOpt(
+                                                    Factor1(
+                                                      Designator(
+                                                       Nizovi
+                                                        IdenLi(
+                                                         niz
+                                                        ) [IdenLi]
+                                                        DesigRepArray(
+                                                          NoDesigRep(
+                                                          ) [NoDesigRep]
+                                                          Expr(
+                                                            NoMinOpt(
+                                                            ) [NoMinOpt]
+                                                            SingleTerm(
+                                                              Term(
+                                                                NoMulopFOpt(
+                                                                  Factor1(
+                                                                    Designator(
+                                                                     Konstante
+                                                                      IdenLi(
+                                                                       jedan
+                                                                      ) [IdenLi]
+                                                                      NoDesigRep(
+                                                                      ) [NoDesigRep]
+                                                                    ) [Designator]
+                                                                    NoFactOpt1(
+                                                                    ) [NoFactOpt1]
+                                                                  ) [Factor1]
+                                                                ) [NoMulopFOpt]
+                                                              ) [Term]
+                                                            ) [SingleTerm]
+                                                          ) [Expr]
+                                                        ) [DesigRepArray]
+                                                      ) [Designator]
+                                                      NoFactOpt1(
+                                                      ) [NoFactOpt1]
+                                                    ) [Factor1]
+                                                  ) [NoMulopFOpt]
+                                                ) [Term]
+                                              ) [SingleTerm]
+                                            ) [Expr]
+                                          ) [DesigRepArray]
+                                        ) [Designator]
+                                        DSChoose1(
+                                          AssignopEq(
+                                          ) [AssignopEq]
+                                          Expr(
+                                            NoMinOpt(
+                                            ) [NoMinOpt]
+                                            SingleTerm(
+                                              Term(
+                                                MulopFOptYes(
+                                                  NoMulopFOpt(
+                                                    Factor1(
+                                                      Designator(
+                                                       Nizovi
+                                                        IdenLi(
+                                                         niz
+                                                        ) [IdenLi]
+                                                        DesigRepArray(
+                                                          NoDesigRep(
+                                                          ) [NoDesigRep]
+                                                          Expr(
+                                                            NoMinOpt(
+                                                            ) [NoMinOpt]
+                                                            SingleTerm(
+                                                              Term(
+                                                                NoMulopFOpt(
+                                                                  Factor1(
+                                                                    Designator(
+                                                                     Nizovi
+                                                                      IdenLi(
+                                                                       niz
+                                                                      ) [IdenLi]
+                                                                      DesigRepArray(
+                                                                        NoDesigRep(
+                                                                        ) [NoDesigRep]
+                                                                        Expr(
+                                                                          NoMinOpt(
+                                                                          ) [NoMinOpt]
+                                                                          SingleTerm(
+                                                                            Term(
+                                                                              NoMulopFOpt(
+                                                                                Factor2(
+                                                                                 0
+                                                                                ) [Factor2]
+                                                                              ) [NoMulopFOpt]
+                                                                            ) [Term]
+                                                                          ) [SingleTerm]
+                                                                        ) [Expr]
+                                                                      ) [DesigRepArray]
+                                                                    ) [Designator]
+                                                                    NoFactOpt1(
+                                                                    ) [NoFactOpt1]
+                                                                  ) [Factor1]
+                                                                ) [NoMulopFOpt]
+                                                              ) [Term]
+                                                            ) [SingleTerm]
+                                                          ) [Expr]
+                                                        ) [DesigRepArray]
+                                                      ) [Designator]
+                                                      NoFactOpt1(
+                                                      ) [NoFactOpt1]
+                                                    ) [Factor1]
+                                                  ) [NoMulopFOpt]
+                                                  MulopML(
+                                                  ) [MulopML]
+                                                  Factor2(
+                                                   3
+                                                  ) [Factor2]
+                                                ) [MulopFOptYes]
+                                              ) [Term]
+                                            ) [SingleTerm]
+                                          ) [Expr]
+                                        ) [DSChoose1]
+                                      ) [DesignatorStatement1]
+                                    ) [StatementEquals]
+                                  ) [StatementDesignatorStatement]
+                                ) [StatL]
+                                StatementDesignatorStatement(
+                                  StatementEquals(
+                                    DesignatorStatement1(
+                                      Designator(
+                                       bodovi
+                                        NoIdenL(
+                                        ) [NoIdenL]
+                                        NoDesigRep(
+                                        ) [NoDesigRep]
+                                      ) [Designator]
+                                      DSChoose1(
+                                        AssignopEq(
+                                        ) [AssignopEq]
+                                        Expr(
+                                          NoMinOpt(
+                                          ) [NoMinOpt]
+                                          SingleTerm(
+                                            Term(
+                                              MulopFOptYes(
+                                                NoMulopFOpt(
+                                                  Factor1(
+                                                    Designator(
+                                                     Nizovi
+                                                      IdenLi(
+                                                       niz
+                                                      ) [IdenLi]
+                                                      DesigRepArray(
+                                                        NoDesigRep(
+                                                        ) [NoDesigRep]
+                                                        Expr(
+                                                          NoMinOpt(
+                                                          ) [NoMinOpt]
+                                                          SingleTerm(
+                                                            Term(
+                                                              NoMulopFOpt(
+                                                                Factor2(
+                                                                 2
+                                                                ) [Factor2]
+                                                              ) [NoMulopFOpt]
+                                                            ) [Term]
+                                                          ) [SingleTerm]
+                                                        ) [Expr]
+                                                      ) [DesigRepArray]
+                                                    ) [Designator]
+                                                    NoFactOpt1(
+                                                    ) [NoFactOpt1]
+                                                  ) [Factor1]
+                                                ) [NoMulopFOpt]
+                                                MulopD(
+                                                ) [MulopD]
+                                                Factor1(
+                                                  Designator(
+                                                   Nizovi
+                                                    IdenLi(
+                                                     niz
+                                                    ) [IdenLi]
+                                                    DesigRepArray(
+                                                      NoDesigRep(
+                                                      ) [NoDesigRep]
+                                                      Expr(
+                                                        NoMinOpt(
+                                                        ) [NoMinOpt]
+                                                        SingleTerm(
+                                                          Term(
+                                                            NoMulopFOpt(
+                                                              Factor2(
+                                                               0
+                                                              ) [Factor2]
+                                                            ) [NoMulopFOpt]
+                                                          ) [Term]
+                                                        ) [SingleTerm]
+                                                      ) [Expr]
+                                                    ) [DesigRepArray]
+                                                  ) [Designator]
+                                                  NoFactOpt1(
+                                                  ) [NoFactOpt1]
+                                                ) [Factor1]
+                                              ) [MulopFOptYes]
+                                            ) [Term]
+                                          ) [SingleTerm]
+                                        ) [Expr]
+                                      ) [DSChoose1]
+                                    ) [DesignatorStatement1]
+                                  ) [StatementEquals]
+                                ) [StatementDesignatorStatement]
+                              ) [StatL]
+                              StatementPrint(
+                                Expr(
+                                  NoMinOpt(
+                                  ) [NoMinOpt]
+                                  SingleTerm(
+                                    Term(
+                                      NoMulopFOpt(
+                                        Factor1(
+                                          Designator(
+                                           bodovi
+                                            NoIdenL(
+                                            ) [NoIdenL]
+                                            NoDesigRep(
+                                            ) [NoDesigRep]
+                                          ) [Designator]
+                                          NoFactOpt1(
+                                          ) [NoFactOpt1]
+                                        ) [Factor1]
+                                      ) [NoMulopFOpt]
+                                    ) [Term]
+                                  ) [SingleTerm]
+                                ) [Expr]
+                                NoNN(
+                                ) [NoNN]
+                              ) [StatementPrint]
+                            ) [StatL]
+                            StatementPrint(
+                              Expr(
+                                NoMinOpt(
+                                ) [NoMinOpt]
+                                SingleTerm(
+                                  Term(
+                                    NoMulopFOpt(
+                                      Factor1(
+                                        Designator(
+                                         Nizovi
+                                          IdenLi(
+                                           niz
+                                          ) [IdenLi]
+                                          DesigRepArray(
+                                            NoDesigRep(
+                                            ) [NoDesigRep]
+                                            Expr(
+                                              NoMinOpt(
+                                              ) [NoMinOpt]
+                                              SingleTerm(
+                                                Term(
+                                                  NoMulopFOpt(
+                                                    Factor2(
+                                                     2
+                                                    ) [Factor2]
+                                                  ) [NoMulopFOpt]
+                                                ) [Term]
+                                              ) [SingleTerm]
+                                            ) [Expr]
+                                          ) [DesigRepArray]
+                                        ) [Designator]
+                                        NoFactOpt1(
+                                        ) [NoFactOpt1]
+                                      ) [Factor1]
+                                    ) [NoMulopFOpt]
+                                  ) [Term]
+                                ) [SingleTerm]
+                              ) [Expr]
+                              NoNN(
+                              ) [NoNN]
+                            ) [StatementPrint]
+                          ) [StatL]
+                          StatementDesignatorStatement(
+                            StatementEquals(
+                              DesignatorStatement1(
+                                Designator(
+                                 Nizovi
+                                  IdenLi(
+                                   nizch
+                                  ) [IdenLi]
+                                  NoDesigRep(
+                                  ) [NoDesigRep]
+                                ) [Designator]
+                                DSChoose1(
+                                  AssignopEq(
+                                  ) [AssignopEq]
+                                  Expr(
+                                    NoMinOpt(
+                                    ) [NoMinOpt]
+                                    SingleTerm(
+                                      Term(
+                                        NoMulopFOpt(
+                                          Factor5(
+                                            Type(
+                                             char
+                                              NoIdenL(
+                                              ) [NoIdenL]
+                                            ) [Type]
+                                            FactorOr11(
+                                              Expr(
+                                                NoMinOpt(
+                                                ) [NoMinOpt]
+                                                SingleTerm(
+                                                  Term(
+                                                    NoMulopFOpt(
+                                                      Factor2(
+                                                       3
+                                                      ) [Factor2]
+                                                    ) [NoMulopFOpt]
+                                                  ) [Term]
+                                                ) [SingleTerm]
+                                              ) [Expr]
+                                            ) [FactorOr11]
+                                          ) [Factor5]
+                                        ) [NoMulopFOpt]
+                                      ) [Term]
+                                    ) [SingleTerm]
+                                  ) [Expr]
+                                ) [DSChoose1]
+                              ) [DesignatorStatement1]
+                            ) [StatementEquals]
+                          ) [StatementDesignatorStatement]
+                        ) [StatL]
+                        StatementDesignatorStatement(
+                          StatementEquals(
+                            DesignatorStatement1(
+                              Designator(
+                               Nizovi
+                                IdenLi(
+                                 nizch
+                                ) [IdenLi]
+                                DesigRepArray(
+                                  NoDesigRep(
+                                  ) [NoDesigRep]
+                                  Expr(
+                                    NoMinOpt(
+                                    ) [NoMinOpt]
+                                    SingleTerm(
+                                      Term(
+                                        NoMulopFOpt(
+                                          Factor2(
+                                           0
+                                          ) [Factor2]
+                                        ) [NoMulopFOpt]
+                                      ) [Term]
+                                    ) [SingleTerm]
+                                  ) [Expr]
+                                ) [DesigRepArray]
+                              ) [Designator]
+                              DSChoose1(
+                                AssignopEq(
+                                ) [AssignopEq]
+                                Expr(
+                                  NoMinOpt(
+                                  ) [NoMinOpt]
+                                  SingleTerm(
+                                    Term(
+                                      NoMulopFOpt(
+                                        Factor3(
+                                         a
+                                        ) [Factor3]
+                                      ) [NoMulopFOpt]
+                                    ) [Term]
+                                  ) [SingleTerm]
+                                ) [Expr]
+                              ) [DSChoose1]
+                            ) [DesignatorStatement1]
+                          ) [StatementEquals]
+                        ) [StatementDesignatorStatement]
+                      ) [StatL]
+                      StatementDesignatorStatement(
+                        StatementEquals(
+                          DesignatorStatement1(
+                            Designator(
+                             Nizovi
+                              IdenLi(
+                               nizch
+                              ) [IdenLi]
+                              DesigRepArray(
+                                NoDesigRep(
+                                ) [NoDesigRep]
+                                Expr(
+                                  NoMinOpt(
+                                  ) [NoMinOpt]
+                                  SingleTerm(
+                                    Term(
+                                      NoMulopFOpt(
+                                        Factor1(
+                                          Designator(
+                                           Konstante
+                                            IdenLi(
+                                             jedan
+                                            ) [IdenLi]
+                                            NoDesigRep(
+                                            ) [NoDesigRep]
+                                          ) [Designator]
+                                          NoFactOpt1(
+                                          ) [NoFactOpt1]
+                                        ) [Factor1]
+                                      ) [NoMulopFOpt]
+                                    ) [Term]
+                                  ) [SingleTerm]
+                                ) [Expr]
+                              ) [DesigRepArray]
+                            ) [Designator]
+                            DSChoose1(
+                              AssignopEq(
+                              ) [AssignopEq]
+                              Expr(
+                                NoMinOpt(
+                                ) [NoMinOpt]
+                                SingleTerm(
+                                  Term(
+                                    NoMulopFOpt(
+                                      Factor3(
+                                       b
+                                      ) [Factor3]
+                                    ) [NoMulopFOpt]
+                                  ) [Term]
+                                ) [SingleTerm]
+                              ) [Expr]
+                            ) [DSChoose1]
+                          ) [DesignatorStatement1]
+                        ) [StatementEquals]
+                      ) [StatementDesignatorStatement]
+                    ) [StatL]
+                    StatementDesignatorStatement(
+                      StatementEquals(
+                        DesignatorStatement1(
+                          Designator(
+                           Nizovi
+                            IdenLi(
+                             nizch
+                            ) [IdenLi]
+                            DesigRepArray(
+                              NoDesigRep(
+                              ) [NoDesigRep]
+                              Expr(
+                                NoMinOpt(
+                                ) [NoMinOpt]
+                                TermList(
+                                  SingleTerm(
+                                    Term(
+                                      NoMulopFOpt(
+                                        Factor1(
+                                          Designator(
+                                           Konstante
+                                            IdenLi(
+                                             pet
+                                            ) [IdenLi]
+                                            NoDesigRep(
+                                            ) [NoDesigRep]
+                                          ) [Designator]
+                                          NoFactOpt1(
+                                          ) [NoFactOpt1]
+                                        ) [Factor1]
+                                      ) [NoMulopFOpt]
+                                    ) [Term]
+                                  ) [SingleTerm]
+                                  AddopM(
+                                  ) [AddopM]
+                                  Term(
+                                    NoMulopFOpt(
+                                      Factor2(
+                                       3
+                                      ) [Factor2]
+                                    ) [NoMulopFOpt]
+                                  ) [Term]
+                                ) [TermList]
+                              ) [Expr]
+                            ) [DesigRepArray]
+                          ) [Designator]
+                          DSChoose1(
+                            AssignopEq(
+                            ) [AssignopEq]
+                            Expr(
+                              NoMinOpt(
+                              ) [NoMinOpt]
+                              SingleTerm(
+                                Term(
+                                  NoMulopFOpt(
+                                    Factor3(
+                                     c
+                                    ) [Factor3]
+                                  ) [NoMulopFOpt]
+                                ) [Term]
+                              ) [SingleTerm]
+                            ) [Expr]
+                          ) [DSChoose1]
+                        ) [DesignatorStatement1]
+                      ) [StatementEquals]
+                    ) [StatementDesignatorStatement]
+                  ) [StatL]
+                  StatementPrint(
+                    Expr(
+                      NoMinOpt(
+                      ) [NoMinOpt]
+                      SingleTerm(
+                        Term(
+                          NoMulopFOpt(
+                            Factor1(
+                              Designator(
+                               Nizovi
+                                IdenLi(
+                                 nizch
+                                ) [IdenLi]
+                                DesigRepArray(
+                                  NoDesigRep(
+                                  ) [NoDesigRep]
+                                  Expr(
+                                    NoMinOpt(
+                                    ) [NoMinOpt]
+                                    SingleTerm(
+                                      Term(
+                                        NoMulopFOpt(
+                                          Factor2(
+                                           1
+                                          ) [Factor2]
+                                        ) [NoMulopFOpt]
+                                      ) [Term]
+                                    ) [SingleTerm]
+                                  ) [Expr]
+                                ) [DesigRepArray]
+                              ) [Designator]
+                              NoFactOpt1(
+                              ) [NoFactOpt1]
+                            ) [Factor1]
+                          ) [NoMulopFOpt]
+                        ) [Term]
+                      ) [SingleTerm]
+                    ) [Expr]
+                    NoNN(
+                    ) [NoNN]
+                  ) [StatementPrint]
+                ) [StatL]
+                StatementPrint(
+                  Expr(
+                    NoMinOpt(
+                    ) [NoMinOpt]
+                    SingleTerm(
+                      Term(
+                        NoMulopFOpt(
+                          Factor1(
+                            Designator(
+                             Nizovi
+                              IdenLi(
+                               nizch
+                              ) [IdenLi]
+                              DesigRepArray(
+                                NoDesigRep(
+                                ) [NoDesigRep]
+                                Expr(
+                                  NoMinOpt(
+                                  ) [NoMinOpt]
+                                  SingleTerm(
+                                    Term(
+                                      MulopFOptYes(
+                                        NoMulopFOpt(
+                                          Factor1(
+                                            Designator(
+                                             Konstante
+                                              IdenLi(
+                                               jedan
+                                              ) [IdenLi]
+                                              NoDesigRep(
+                                              ) [NoDesigRep]
+                                            ) [Designator]
+                                            NoFactOpt1(
+                                            ) [NoFactOpt1]
+                                          ) [Factor1]
+                                        ) [NoMulopFOpt]
+                                        MulopML(
+                                        ) [MulopML]
+                                        Factor2(
+                                         2
+                                        ) [Factor2]
+                                      ) [MulopFOptYes]
+                                    ) [Term]
+                                  ) [SingleTerm]
+                                ) [Expr]
+                              ) [DesigRepArray]
+                            ) [Designator]
+                            NoFactOpt1(
+                            ) [NoFactOpt1]
+                          ) [Factor1]
+                        ) [NoMulopFOpt]
+                      ) [Term]
+                    ) [SingleTerm]
+                  ) [Expr]
+                  NoNN(
+                  ) [NoNN]
+                ) [StatementPrint]
+              ) [StatL]
+              StatementDesignatorStatement(
+                StatementEquals(
+                  DesignatorStatement1(
+                    Designator(
+                     a
+                      NoIdenL(
+                      ) [NoIdenL]
+                      NoDesigRep(
+                      ) [NoDesigRep]
+                    ) [Designator]
+                    DSChoose1(
+                      AssignopEq(
+                      ) [AssignopEq]
+                      Expr(
+                        NoMinOpt(
+                        ) [NoMinOpt]
+                        SingleTerm(
+                          Term(
+                            NoMulopFOpt(
+                              Factor2(
+                               1
+                              ) [Factor2]
+                            ) [NoMulopFOpt]
+                          ) [Term]
+                        ) [SingleTerm]
+                      ) [Expr]
+                    ) [DSChoose1]
+                  ) [DesignatorStatement1]
+                ) [StatementEquals]
+              ) [StatementDesignatorStatement]
+            ) [StatL]
+            StatementRead(
+              Designator(
+               bodovi
+                NoIdenL(
+                ) [NoIdenL]
+                NoDesigRep(
+                ) [NoDesigRep]
+              ) [Designator]
+            ) [StatementRead]
+          ) [StatL]
+          StatementDesignatorStatement(
+            StatementEquals(
+              DesignatorStatement1(
+                Designator(
+                 bodovi
+                  NoIdenL(
+                  ) [NoIdenL]
+                  NoDesigRep(
+                  ) [NoDesigRep]
+                ) [Designator]
+                DSChoose1(
+                  AssignopEq(
+                  ) [AssignopEq]
+                  Expr(
+                    MinOptYes(
+                    ) [MinOptYes]
+                    TermList(
+                      TermList(
+                        SingleTerm(
+                          Term(
+                            NoMulopFOpt(
+                              Factor1(
+                                Designator(
+                                 bodovi
+                                  NoIdenL(
+                                  ) [NoIdenL]
+                                  NoDesigRep(
+                                  ) [NoDesigRep]
+                                ) [Designator]
+                                NoFactOpt1(
+                                ) [NoFactOpt1]
+                              ) [Factor1]
+                            ) [NoMulopFOpt]
+                          ) [Term]
+                        ) [SingleTerm]
+                        AddopP(
+                        ) [AddopP]
+                        Term(
+                          MulopFOptYes(
+                            NoMulopFOpt(
+                              Factor6(
+                                Expr(
+                                  NoMinOpt(
+                                  ) [NoMinOpt]
+                                  TermList(
+                                    SingleTerm(
+                                      Term(
+                                        MulopFOptYes(
+                                          MulopFOptYes(
+                                            NoMulopFOpt(
+                                              Factor1(
+                                                Designator(
+                                                 Konstante
+                                                  IdenLi(
+                                                   pet
+                                                  ) [IdenLi]
+                                                  NoDesigRep(
+                                                  ) [NoDesigRep]
+                                                ) [Designator]
+                                                NoFactOpt1(
+                                                ) [NoFactOpt1]
+                                              ) [Factor1]
+                                            ) [NoMulopFOpt]
+                                            MulopML(
+                                            ) [MulopML]
+                                            Factor1(
+                                              Designator(
+                                               a
+                                                NoIdenL(
+                                                ) [NoIdenL]
+                                                NoDesigRep(
+                                                ) [NoDesigRep]
+                                              ) [Designator]
+                                              NoFactOpt1(
+                                              ) [NoFactOpt1]
+                                            ) [Factor1]
+                                          ) [MulopFOptYes]
+                                          MulopD(
+                                          ) [MulopD]
+                                          Factor2(
+                                           2
+                                          ) [Factor2]
+                                        ) [MulopFOptYes]
+                                      ) [Term]
+                                    ) [SingleTerm]
+                                    AddopM(
+                                    ) [AddopM]
+                                    Term(
+                                      NoMulopFOpt(
+                                        Factor1(
+                                          Designator(
+                                           Konstante
+                                            IdenLi(
+                                             jedan
+                                            ) [IdenLi]
+                                            NoDesigRep(
+                                            ) [NoDesigRep]
+                                          ) [Designator]
+                                          NoFactOpt1(
+                                          ) [NoFactOpt1]
+                                        ) [Factor1]
+                                      ) [NoMulopFOpt]
+                                    ) [Term]
+                                  ) [TermList]
+                                ) [Expr]
+                              ) [Factor6]
+                            ) [NoMulopFOpt]
+                            MulopML(
+                            ) [MulopML]
+                            Factor1(
+                              Designator(
+                               bodovi
+                                NoIdenL(
+                                ) [NoIdenL]
+                                NoDesigRep(
+                                ) [NoDesigRep]
+                              ) [Designator]
+                              NoFactOpt1(
+                              ) [NoFactOpt1]
+                            ) [Factor1]
+                          ) [MulopFOptYes]
+                        ) [Term]
+                      ) [TermList]
+                      AddopM(
+                      ) [AddopM]
+                      Term(
+                        NoMulopFOpt(
+                          Factor6(
+                            Expr(
+                              NoMinOpt(
+                              ) [NoMinOpt]
+                              TermList(
+                                TermList(
+                                  SingleTerm(
+                                    Term(
+                                      MulopFOptYes(
+                                        NoMulopFOpt(
+                                          Factor2(
+                                           3
+                                          ) [Factor2]
+                                        ) [NoMulopFOpt]
+                                        MulopMD(
+                                        ) [MulopMD]
+                                        Factor2(
+                                         2
+                                        ) [Factor2]
+                                      ) [MulopFOptYes]
+                                    ) [Term]
+                                  ) [SingleTerm]
+                                  AddopP(
+                                  ) [AddopP]
+                                  Term(
+                                    MulopFOptYes(
+                                      NoMulopFOpt(
+                                        Factor2(
+                                         3
+                                        ) [Factor2]
+                                      ) [NoMulopFOpt]
+                                      MulopML(
+                                      ) [MulopML]
+                                      Factor2(
+                                       2
+                                      ) [Factor2]
+                                    ) [MulopFOptYes]
+                                  ) [Term]
+                                ) [TermList]
+                                AddopM(
+                                ) [AddopM]
+                                Term(
+                                  NoMulopFOpt(
+                                    Factor2(
+                                     3
+                                    ) [Factor2]
+                                  ) [NoMulopFOpt]
+                                ) [Term]
+                              ) [TermList]
+                            ) [Expr]
+                          ) [Factor6]
+                        ) [NoMulopFOpt]
+                      ) [Term]
+                    ) [TermList]
+                  ) [Expr]
+                ) [DSChoose1]
+              ) [DesignatorStatement1]
+            ) [StatementEquals]
+          ) [StatementDesignatorStatement]
+        ) [StatL]
+        StatementPrint(
+          Expr(
+            NoMinOpt(
+            ) [NoMinOpt]
+            SingleTerm(
+              Term(
+                NoMulopFOpt(
+                  Factor1(
+                    Designator(
+                     bodovi
+                      NoIdenL(
+                      ) [NoIdenL]
+                      NoDesigRep(
+                      ) [NoDesigRep]
+                    ) [Designator]
+                    NoFactOpt1(
+                    ) [NoFactOpt1]
+                  ) [Factor1]
+                ) [NoMulopFOpt]
+              ) [Term]
+            ) [SingleTerm]
+          ) [Expr]
+          NoNN(
+          ) [NoNN]
+        ) [StatementPrint]
+      ) [StatL]
+    ) [MethodDecl]
+  ) [MthList]
+) [Program]
+INFO  19:04:10,146 - ===================================
+INFO  19:04:10,153 - Deklarisana promenljiva nula na liniji 6
+INFO  19:04:10,154 - Deklarisana promenljiva jedan na liniji 7
+INFO  19:04:10,154 - Deklarisana promenljiva pet na liniji 8
+INFO  19:04:10,154 - Deklarisan niz  niz na liniji 14
+INFO  19:04:10,154 - Deklarisan niz  nizch na liniji 15
+INFO  19:04:10,154 - Deklarisana promenljiva a na liniji 20
+INFO  19:04:10,154 - Obradjuje se funkcija main na liniji 23
+INFO  19:04:10,154 - Deklarisana lokalna promenljiva bodovi na liniji 24
+INFO  19:04:10,155 - Deklarisana lokalna promenljiva bt na liniji 25
+INFO  19:04:10,156 - ===================================

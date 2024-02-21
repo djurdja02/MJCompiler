@@ -1,0 +1,100 @@
+INFO  17:14:20,595 - Compiling source file: C:\Users\Laptop\Desktop\pp1\workspace\MJCompiler\test\program.mj
+INFO  17:14:20,663 - #2 program
+INFO  17:14:20,663 - #45 test302
+INFO  17:14:20,663 - #17 namespace
+INFO  17:14:20,664 - #45 Addition
+INFO  17:14:20,665 - #42 {
+INFO  17:14:20,665 - #42 {
+INFO  17:14:20,666 - #45 int
+INFO  17:14:20,667 - #45 sum
+INFO  17:14:20,669 - #38 (
+INFO  17:14:20,669 - #45 int
+INFO  17:14:20,671 - #45 z
+INFO  17:14:20,671 - #36 ,
+INFO  17:14:20,672 - #45 int
+INFO  17:14:20,672 - #45 d
+INFO  17:14:20,672 - #39 )
+INFO  17:14:20,674 - #42 {
+INFO  17:14:20,676 - #11 return
+INFO  17:14:20,676 - #45 z
+INFO  17:14:20,677 - #18 +
+INFO  17:14:20,683 - #45 d
+INFO  17:14:20,685 - #34 ;
+INFO  17:14:20,688 - #43 }
+INFO  17:14:20,688 - #45 int
+INFO  17:14:20,689 - #45 inkrement
+INFO  17:14:20,689 - #38 (
+INFO  17:14:20,689 - #45 int
+INFO  17:14:20,689 - #45 a
+INFO  17:14:20,689 - #36 ,
+INFO  17:14:20,690 - #45 int
+INFO  17:14:20,690 - #45 inc
+INFO  17:14:20,690 - #39 )
+INFO  17:14:20,690 - #45 int
+INFO  17:14:20,690 - #45 pom
+INFO  17:14:20,691 - #34 ;
+INFO  17:14:20,693 - #42 {
+INFO  17:14:20,693 - #7 if
+INFO  17:14:20,694 - #38 (
+INFO  17:14:20,694 - #45 inc
+INFO  17:14:20,694 - #23 ==
+INFO  17:14:20,694 - #48 1
+INFO  17:14:20,695 - #39 )
+INFO  17:14:20,697 - #45 pom
+INFO  17:14:20,697 - #31 =
+INFO  17:14:20,697 - #48 1
+INFO  17:14:20,700 - #34 ;
+INFO  17:14:20,700 - #5 else
+INFO  17:14:20,701 - #7 if
+INFO  17:14:20,701 - #38 (
+INFO  17:14:20,701 - #45 inc
+INFO  17:14:20,701 - #23 ==
+INFO  17:14:20,701 - #48 2
+INFO  17:14:20,701 - #39 )
+INFO  17:14:20,701 - #45 pom
+INFO  17:14:20,701 - #31 =
+INFO  17:14:20,701 - #45 a
+INFO  17:14:20,701 - #34 ;
+INFO  17:14:20,702 - #11 return
+INFO  17:14:20,702 - #45 sum
+INFO  17:14:20,702 - #38 (
+INFO  17:14:20,702 - #45 a
+INFO  17:14:20,703 - #36 ,
+INFO  17:14:20,703 - #45 pom
+INFO  17:14:20,703 - #39 )
+INFO  17:14:20,704 - #34 ;
+INFO  17:14:20,704 - #43 }
+INFO  17:14:20,704 - #43 }
+INFO  17:14:20,704 - #43 }
+INFO  17:14:20,704 - #42 {
+INFO  17:14:20,705 - #45 bool
+INFO  17:14:20,705 - #45 verify
+INFO  17:14:20,705 - #38 (
+INFO  17:14:20,706 - #39 )
+INFO  17:14:20,706 - #42 {
+INFO  17:14:20,706 - #9 print
+INFO  17:14:20,706 - #38 (
+INFO  17:14:20,706 - #47 v
+INFO  17:14:20,706 - #39 )
+INFO  17:14:20,707 - #34 ;
+INFO  17:14:20,707 - #11 return
+INFO  17:14:20,708 - #46 false
+INFO  17:14:20,708 - #34 ;
+INFO  17:14:20,708 - #43 }
+INFO  17:14:20,708 - #12 void
+INFO  17:14:20,708 - #45 main
+INFO  17:14:20,709 - #38 (
+INFO  17:14:20,709 - #39 )
+INFO  17:14:20,709 - #42 {
+INFO  17:14:20,709 - #43 }
+INFO  17:14:20,709 - #43 }
+INFO  17:14:20,714 - Obradjuje se funkcija sum na liniji 9
+INFO  17:14:20,714 - Dodat je argument funkcije d na liniji 9
+INFO  17:14:20,714 - Dodat je argument funkcije z na liniji 9
+INFO  17:14:20,715 - Obradjuje se funkcija inkrement na liniji 15
+INFO  17:14:20,715 - Dodat je argument funkcije inc na liniji 15
+INFO  17:14:20,715 - Dodat je argument funkcije a na liniji 15
+INFO  17:14:20,715 - Deklarisana lokalna promenljiva pom na liniji 16
+INFO  17:14:20,716 - Obradjuje se funkcija verify na liniji 34
+INFO  17:14:20,716 - Obradjuje se funkcija main na liniji 39
+INFO  17:14:20,716 - ===================================

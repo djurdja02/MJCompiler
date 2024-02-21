@@ -1,0 +1,27 @@
+INFO  12:15:35,363 - Compiling source file: C:\Users\Laptop\Desktop\pp1\workspace\MJCompiler\test\program.mj
+INFO  12:15:35,416 - #2 program
+INFO  12:15:35,416 - #45 Program
+INFO  12:15:35,417 - #6 const
+INFO  12:15:35,418 - #45 int
+INFO  12:15:35,418 - #45 pi
+INFO  12:15:35,419 - #31 =
+INFO  12:15:35,419 - #48 3
+INFO  12:15:35,419 - #36 ,
+INFO  12:15:35,420 - #45 e
+INFO  12:15:35,420 - #31 =
+INFO  12:15:35,420 - #48 2
+INFO  12:15:35,420 - #34 ;
+INFO  12:15:35,420 - #45 int
+INFO  12:15:35,420 - #45 a
+INFO  12:15:35,421 - #36 ,
+INFO  12:15:35,422 - #45 b
+INFO  12:15:35,422 - #34 ;
+INFO  12:15:35,423 - #45 int
+INFO  12:15:35,423 - #45 i
+INFO  12:15:35,423 - #34 ;
+INFO  12:15:35,423 - #45 int
+INFO  12:15:35,423 - #45 getValue
+INFO  12:15:35,425 - #38 (
+ERROR 12:15:35,425 - 
+Sintaksna greska (() na liniji 6
+ERROR 12:15:35,425 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 6

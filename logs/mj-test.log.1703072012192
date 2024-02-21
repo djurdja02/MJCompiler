@@ -1,0 +1,44 @@
+INFO  12:29:46,544 - Compiling source file: C:\Users\Laptop\Desktop\pp1\workspace\MJCompiler\test\program.mj
+INFO  12:29:46,594 - #2 program
+INFO  12:29:46,594 - #45 molim
+INFO  12:29:46,594 - #17 namespace
+INFO  12:29:46,594 - #45 std
+INFO  12:29:46,595 - #42 {
+INFO  12:29:46,595 - #6 const
+INFO  12:29:46,595 - #45 int
+INFO  12:29:46,595 - #45 x
+INFO  12:29:46,596 - #31 =
+INFO  12:29:46,597 - #48 5
+INFO  12:29:46,597 - #34 ;
+INFO  12:29:46,597 - #45 int
+INFO  12:29:46,598 - #45 y
+INFO  12:29:46,598 - #36 ,
+INFO  12:29:46,599 - #45 z
+INFO  12:29:46,599 - #34 ;
+INFO  12:29:46,600 - #42 {
+INFO  12:29:46,600 - #43 }
+INFO  12:29:46,600 - #43 }
+INFO  12:29:46,601 - #17 namespace
+INFO  12:29:46,601 - #45 djuro
+INFO  12:29:46,602 - #42 {
+INFO  12:29:46,602 - #45 int
+INFO  12:29:46,602 - #45 y
+INFO  12:29:46,602 - #40 [
+INFO  12:29:46,603 - #41 ]
+INFO  12:29:46,603 - #36 ,
+INFO  12:29:46,603 - #45 z
+INFO  12:29:46,603 - #34 ;
+INFO  12:29:46,604 - #42 {
+INFO  12:29:46,604 - #45 int
+INFO  12:29:46,604 - #45 getValue
+INFO  12:29:46,604 - #38 (
+INFO  12:29:46,604 - #45 int
+INFO  12:29:46,604 - #45 a
+INFO  12:29:46,604 - #36 ,
+INFO  12:29:46,604 - #45 bool
+INFO  12:29:46,605 - #45 k
+INFO  12:29:46,605 - #39 )
+INFO  12:29:46,605 - #45 int
+ERROR 12:29:46,605 - 
+Sintaksna greska (int) na liniji 13
+ERROR 12:29:46,605 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 13

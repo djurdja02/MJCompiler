@@ -1,0 +1,171 @@
+INFO  16:33:25,415 - Compiling source file: C:\Users\Laptop\Desktop\pp1\workspace\MJCompiler\test\program.mj
+INFO  16:33:25,469 - #2 program
+INFO  16:33:25,469 - #45 test302
+INFO  16:33:25,469 - #17 namespace
+INFO  16:33:25,470 - #45 Addition
+INFO  16:33:25,470 - #42 {
+INFO  16:33:25,472 - #42 {
+INFO  16:33:25,473 - #45 int
+INFO  16:33:25,473 - #45 sum
+INFO  16:33:25,475 - #38 (
+INFO  16:33:25,476 - #45 int
+INFO  16:33:25,476 - #45 z
+INFO  16:33:25,476 - #36 ,
+INFO  16:33:25,477 - #45 int
+INFO  16:33:25,477 - #45 d
+INFO  16:33:25,477 - #39 )
+INFO  16:33:25,479 - #42 {
+INFO  16:33:25,480 - #11 return
+INFO  16:33:25,480 - #45 z
+INFO  16:33:25,481 - #18 +
+INFO  16:33:25,487 - #45 d
+INFO  16:33:25,488 - #34 ;
+INFO  16:33:25,491 - #43 }
+INFO  16:33:25,491 - #43 }
+INFO  16:33:25,492 - #17 namespace
+ERROR 16:33:25,492 - 
+Sintaksna greska (namespace) na liniji 16
+INFO  16:33:25,492 - #45 Unpacking
+INFO  16:33:25,492 - #42 {
+INFO  16:33:25,492 - #45 int
+INFO  16:33:25,494 - #45 niz
+INFO  16:33:25,494 - #40 [
+INFO  16:33:25,494 - #41 ]
+INFO  16:33:25,494 - #36 ,
+INFO  16:33:25,494 - #45 niz2
+INFO  16:33:25,494 - #40 [
+INFO  16:33:25,494 - #41 ]
+INFO  16:33:25,494 - #36 ,
+INFO  16:33:25,494 - #45 niz3
+INFO  16:33:25,494 - #40 [
+INFO  16:33:25,494 - #41 ]
+INFO  16:33:25,494 - #34 ;
+INFO  16:33:25,494 - #45 int
+INFO  16:33:25,494 - #45 a
+INFO  16:33:25,495 - #36 ,
+ERROR 16:33:25,495 - Izvrsen oporavak do ; 
+INFO  16:33:25,496 - #45 b
+INFO  16:33:25,496 - #34 ;
+INFO  16:33:25,499 - #42 {
+INFO  16:33:25,500 - #12 void
+INFO  16:33:25,500 - #45 kut
+INFO  16:33:25,500 - #38 (
+INFO  16:33:25,500 - #45 int
+INFO  16:33:25,500 - #45 k
+INFO  16:33:25,500 - #36 ,
+INFO  16:33:25,500 - #45 l
+INFO  16:33:25,501 - #39 )
+ERROR 16:33:25,501 - 
+Sintaksna greska ()) na liniji 21
+INFO  16:33:25,501 - #42 {
+INFO  16:33:25,501 - #43 }
+INFO  16:33:25,501 - #43 }
+ERROR 16:33:25,501 - Izvrsen oporavak do , 
+INFO  16:33:25,501 - #43 }
+INFO  16:33:25,501 - #42 {
+INFO  16:33:25,503 - #12 void
+INFO  16:33:25,503 - #45 main
+INFO  16:33:25,503 - #38 (
+INFO  16:33:25,503 - #39 )
+INFO  16:33:25,504 - #42 {
+INFO  16:33:25,504 - #43 }
+INFO  16:33:25,504 - #43 }
+INFO  16:33:25,510 - Deklarisana promenljiva b na liniji 18
+INFO  16:33:25,511 - Deklarisana promenljiva a na liniji 18
+INFO  16:33:25,511 - Obradjuje se funkcija kut na liniji 21
+INFO  16:33:25,511 - Dodat je argument funkcije k na liniji 21
+INFO  16:33:25,511 - Obradjuje se funkcija main na liniji 30
+INFO  16:33:25,511 - Program(
+  Progname(
+   test302
+  ) [Progname]
+  NmespaceList(
+    NoNamespaceList(
+    ) [NoNamespaceList]
+    Namespace(
+      NamespaceName(
+       Addition
+      ) [NamespaceName]
+      DclList(
+        DclList(
+          NoDeclList(
+          ) [NoDeclList]
+          ErrorGlobalSemi(
+          ) [ErrorGlobalSemi]
+        ) [DclList]
+        DclVarClass(
+          VarD(
+            VarType(
+              Type(
+               int
+                NoIdenL(
+                ) [NoIdenL]
+              ) [Type]
+            ) [VarType]
+           a
+            NoBrackets(
+            ) [NoBrackets]
+            VrDList(
+              NoVarDList(
+              ) [NoVarDList]
+              VarDListNotNull(
+               b
+                NoBrackets(
+                ) [NoBrackets]
+              ) [VarDListNotNull]
+            ) [VrDList]
+          ) [VarD]
+        ) [DclVarClass]
+      ) [DclList]
+      MthList(
+        NoMethList(
+        ) [NoMethList]
+        MethodDecl(
+          MethodName(
+            TypeListVoid(
+            ) [TypeListVoid]
+           kut
+          ) [MethodName]
+          FormLst(
+            FormParam(
+              Type(
+               int
+                NoIdenL(
+                ) [NoIdenL]
+              ) [Type]
+             k
+              NoBrackets(
+              ) [NoBrackets]
+              ErrorFormsComma(
+              ) [ErrorFormsComma]
+            ) [FormParam]
+          ) [FormLst]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+          NoStateL(
+          ) [NoStateL]
+        ) [MethodDecl]
+      ) [MthList]
+    ) [Namespace]
+  ) [NmespaceList]
+  NoDeclList(
+  ) [NoDeclList]
+  MthList(
+    NoMethList(
+    ) [NoMethList]
+    MethodDecl(
+      MethodName(
+        TypeListVoid(
+        ) [TypeListVoid]
+       main
+      ) [MethodName]
+      NoFormList(
+      ) [NoFormList]
+      NoVarDeclList(
+      ) [NoVarDeclList]
+      NoStateL(
+      ) [NoStateL]
+    ) [MethodDecl]
+  ) [MthList]
+) [Program]
+INFO  16:33:25,511 - ===================================

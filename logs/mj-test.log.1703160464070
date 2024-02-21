@@ -1,0 +1,12 @@
+INFO  18:56:19,841 - Compiling source file: C:\Users\Laptop\Desktop\pp1\workspace\MJCompiler\test\program.mj
+INFO  18:56:20,177 - #2 program
+INFO  18:56:20,178 - #45 molim
+INFO  18:56:20,178 - #17 namespace
+INFO  18:56:20,182 - #45 std
+INFO  18:56:20,182 - #42 {
+INFO  18:56:20,182 - #6 const
+INFO  18:56:20,186 - #45 int
+INFO  18:56:20,186 - #31 =
+ERROR 18:56:20,186 - 
+Sintaksna greska (=) na liniji 4
+ERROR 18:56:20,186 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 4

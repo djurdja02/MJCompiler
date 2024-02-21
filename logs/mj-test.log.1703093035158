@@ -1,0 +1,37 @@
+INFO  18:23:18,397 - Compiling source file: C:\Users\Laptop\Desktop\pp1\workspace\MJCompiler\test\program.mj
+INFO  18:23:18,721 - #2 program
+INFO  18:23:18,721 - #45 molim
+INFO  18:23:18,721 - #17 namespace
+INFO  18:23:18,725 - #45 std
+INFO  18:23:18,725 - #42 {
+INFO  18:23:18,725 - #6 const
+INFO  18:23:18,730 - #45 int
+INFO  18:23:18,730 - #31 =
+ERROR 18:23:18,730 - 
+Sintaksna greska (=) na liniji 4
+INFO  18:23:18,730 - #48 5
+INFO  18:23:18,730 - #34 ;
+INFO  18:23:18,730 - #45 int
+INFO  18:23:18,731 - #45 condt
+INFO  18:23:18,731 - #45 y
+ERROR 18:23:18,731 - Izvrsen oporavak do ; 
+ERROR 18:23:18,739 - 
+Sintaksna greska (y) na liniji 5
+INFO  18:23:18,740 - #36 ,
+INFO  18:23:18,740 - #45 z
+INFO  18:23:18,740 - #34 ;
+INFO  18:23:18,741 - #42 {
+INFO  18:23:18,741 - #45 x
+INFO  18:23:18,741 - #31 =
+ERROR 18:23:18,741 - Izvrsen oporavak do ; 
+ERROR 18:23:18,743 - 
+Sintaksna greska (=) na liniji 7
+INFO  18:23:18,743 - #45 a
+INFO  18:23:18,743 - #27 <
+INFO  18:23:18,743 - #45 b
+INFO  18:23:18,743 - #36 ,
+INFO  18:23:18,743 - #45 c
+INFO  18:23:18,743 - #34 ;
+INFO  18:23:18,743 - #43 }
+INFO  18:23:18,743 - #43 }
+ERROR 18:23:18,743 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 9

@@ -1,0 +1,15 @@
+INFO  11:40:08,707 - Compiling source file: C:\Users\Laptop\Desktop\pp1\workspace\MJCompiler\test\program.mj
+INFO  11:40:08,759 - #2 program
+INFO  11:40:08,760 - #45 main
+INFO  11:40:08,760 - #17 namespace
+INFO  11:40:08,760 - #45 std
+INFO  11:40:08,760 - #42 {
+INFO  11:40:08,760 - #6 const
+INFO  11:40:08,761 - #45 int
+INFO  11:40:08,761 - #45 x
+INFO  11:40:08,762 - #31 =
+INFO  11:40:08,762 - #48 5
+INFO  11:40:08,762 - #34 ;
+ERROR 11:40:08,762 - 
+Sintaksna greska (;) na liniji 2
+ERROR 11:40:08,762 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 2

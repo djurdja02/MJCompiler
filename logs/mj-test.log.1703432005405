@@ -1,0 +1,129 @@
+INFO  16:31:55,083 - Compiling source file: C:\Users\Laptop\Desktop\pp1\workspace\MJCompiler\test\program.mj
+INFO  16:31:55,127 - #2 program
+INFO  16:31:55,127 - #45 test302
+INFO  16:31:55,127 - #17 namespace
+INFO  16:31:55,128 - #45 Addition
+INFO  16:31:55,128 - #42 {
+INFO  16:31:55,129 - #42 {
+INFO  16:31:55,129 - #45 int
+INFO  16:31:55,130 - #45 sum
+INFO  16:31:55,131 - #38 (
+INFO  16:31:55,132 - #45 int
+INFO  16:31:55,132 - #45 z
+INFO  16:31:55,132 - #36 ,
+INFO  16:31:55,134 - #45 int
+INFO  16:31:55,134 - #45 d
+INFO  16:31:55,134 - #39 )
+INFO  16:31:55,135 - #42 {
+INFO  16:31:55,135 - #11 return
+INFO  16:31:55,136 - #45 z
+INFO  16:31:55,136 - #18 +
+INFO  16:31:55,141 - #45 d
+INFO  16:31:55,142 - #34 ;
+INFO  16:31:55,145 - #43 }
+INFO  16:31:55,145 - #43 }
+INFO  16:31:55,146 - #17 namespace
+ERROR 16:31:55,146 - 
+Sintaksna greska (namespace) na liniji 16
+INFO  16:31:55,146 - #45 Unpacking
+INFO  16:31:55,146 - #42 {
+INFO  16:31:55,146 - #45 int
+INFO  16:31:55,147 - #45 niz
+INFO  16:31:55,147 - #40 [
+INFO  16:31:55,147 - #41 ]
+INFO  16:31:55,147 - #36 ,
+INFO  16:31:55,147 - #45 niz2
+INFO  16:31:55,148 - #40 [
+INFO  16:31:55,148 - #41 ]
+INFO  16:31:55,148 - #36 ,
+INFO  16:31:55,148 - #45 niz3
+INFO  16:31:55,148 - #40 [
+INFO  16:31:55,148 - #41 ]
+INFO  16:31:55,148 - #34 ;
+INFO  16:31:55,148 - #45 int
+INFO  16:31:55,148 - #45 a
+INFO  16:31:55,149 - #36 ,
+ERROR 16:31:55,149 - Izvrsen oporavak do ; 
+INFO  16:31:55,151 - #45 b
+INFO  16:31:55,152 - #34 ;
+INFO  16:31:55,153 - #42 {
+INFO  16:31:55,154 - #43 }
+INFO  16:31:55,154 - #43 }
+INFO  16:31:55,154 - #42 {
+INFO  16:31:55,155 - #12 void
+INFO  16:31:55,155 - #45 main
+INFO  16:31:55,156 - #38 (
+INFO  16:31:55,156 - #39 )
+INFO  16:31:55,157 - #42 {
+INFO  16:31:55,157 - #43 }
+INFO  16:31:55,157 - #43 }
+INFO  16:31:55,162 - Deklarisana promenljiva b na liniji 18
+INFO  16:31:55,162 - Deklarisana promenljiva a na liniji 18
+INFO  16:31:55,162 - Obradjuje se funkcija main na liniji 28
+INFO  16:31:55,163 - Program(
+  Progname(
+   test302
+  ) [Progname]
+  NmespaceList(
+    NoNamespaceList(
+    ) [NoNamespaceList]
+    Namespace(
+      NamespaceName(
+       Addition
+      ) [NamespaceName]
+      DclList(
+        DclList(
+          NoDeclList(
+          ) [NoDeclList]
+          ErrorGlobalSemi(
+          ) [ErrorGlobalSemi]
+        ) [DclList]
+        DclVarClass(
+          VarD(
+            VarType(
+              Type(
+               int
+                NoIdenL(
+                ) [NoIdenL]
+              ) [Type]
+            ) [VarType]
+           a
+            NoBrackets(
+            ) [NoBrackets]
+            VrDList(
+              NoVarDList(
+              ) [NoVarDList]
+              VarDListNotNull(
+               b
+                NoBrackets(
+                ) [NoBrackets]
+              ) [VarDListNotNull]
+            ) [VrDList]
+          ) [VarD]
+        ) [DclVarClass]
+      ) [DclList]
+      NoMethList(
+      ) [NoMethList]
+    ) [Namespace]
+  ) [NmespaceList]
+  NoDeclList(
+  ) [NoDeclList]
+  MthList(
+    NoMethList(
+    ) [NoMethList]
+    MethodDecl(
+      MethodName(
+        TypeListVoid(
+        ) [TypeListVoid]
+       main
+      ) [MethodName]
+      NoFormList(
+      ) [NoFormList]
+      NoVarDeclList(
+      ) [NoVarDeclList]
+      NoStateL(
+      ) [NoStateL]
+    ) [MethodDecl]
+  ) [MthList]
+) [Program]
+INFO  16:31:55,163 - ===================================

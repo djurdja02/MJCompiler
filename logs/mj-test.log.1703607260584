@@ -1,0 +1,154 @@
+INFO  17:13:48,576 - Compiling source file: C:\Users\Laptop\Desktop\pp1\workspace\MJCompiler\test\program.mj
+INFO  17:13:48,633 - #2 program
+INFO  17:13:48,633 - #45 test302
+INFO  17:13:48,633 - #17 namespace
+INFO  17:13:48,634 - #45 Addition
+INFO  17:13:48,634 - #42 {
+INFO  17:13:48,635 - #42 {
+INFO  17:13:48,638 - #45 int
+INFO  17:13:48,639 - #45 sum
+INFO  17:13:48,640 - #38 (
+INFO  17:13:48,641 - #45 int
+INFO  17:13:48,641 - #45 z
+INFO  17:13:48,641 - #36 ,
+INFO  17:13:48,643 - #45 int
+INFO  17:13:48,643 - #45 d
+INFO  17:13:48,643 - #39 )
+INFO  17:13:48,646 - #42 {
+INFO  17:13:48,648 - #11 return
+INFO  17:13:48,649 - #45 z
+INFO  17:13:48,650 - #18 +
+INFO  17:13:48,657 - #45 d
+INFO  17:13:48,658 - #34 ;
+INFO  17:13:48,661 - #43 }
+INFO  17:13:48,661 - #45 int
+INFO  17:13:48,662 - #45 inkrement
+INFO  17:13:48,662 - #38 (
+INFO  17:13:48,662 - #45 int
+INFO  17:13:48,662 - #45 a
+INFO  17:13:48,662 - #36 ,
+INFO  17:13:48,662 - #45 int
+INFO  17:13:48,662 - #45 inc
+INFO  17:13:48,662 - #39 )
+INFO  17:13:48,662 - #45 int
+INFO  17:13:48,662 - #45 pom
+INFO  17:13:48,664 - #34 ;
+INFO  17:13:48,664 - #42 {
+INFO  17:13:48,665 - #7 if
+INFO  17:13:48,666 - #38 (
+INFO  17:13:48,666 - #45 inc
+INFO  17:13:48,666 - #23 ==
+INFO  17:13:48,666 - #48 1
+INFO  17:13:48,667 - #39 )
+INFO  17:13:48,672 - #45 pom
+INFO  17:13:48,672 - #31 =
+INFO  17:13:48,673 - #48 1
+INFO  17:13:48,674 - #34 ;
+INFO  17:13:48,674 - #5 else
+INFO  17:13:48,676 - #7 if
+INFO  17:13:48,676 - #38 (
+INFO  17:13:48,676 - #45 inc
+INFO  17:13:48,676 - #23 ==
+INFO  17:13:48,676 - #48 2
+INFO  17:13:48,676 - #39 )
+INFO  17:13:48,676 - #45 pom
+INFO  17:13:48,676 - #31 =
+INFO  17:13:48,676 - #45 a
+INFO  17:13:48,676 - #34 ;
+INFO  17:13:48,677 - #11 return
+INFO  17:13:48,678 - #45 sum
+INFO  17:13:48,678 - #38 (
+INFO  17:13:48,678 - #45 a
+INFO  17:13:48,678 - #36 ,
+INFO  17:13:48,678 - #45 pom
+INFO  17:13:48,678 - #39 )
+INFO  17:13:48,680 - #34 ;
+INFO  17:13:48,680 - #43 }
+INFO  17:13:48,680 - #43 }
+INFO  17:13:48,680 - #43 }
+INFO  17:13:48,680 - #17 namespace
+INFO  17:13:48,680 - #45 Unpacking
+INFO  17:13:48,681 - #42 {
+INFO  17:13:48,681 - #45 int
+INFO  17:13:48,681 - #45 niz
+INFO  17:13:48,681 - #40 [
+INFO  17:13:48,681 - #41 ]
+INFO  17:13:48,681 - #36 ,
+INFO  17:13:48,682 - #45 niz2
+INFO  17:13:48,682 - #40 [
+INFO  17:13:48,682 - #41 ]
+INFO  17:13:48,682 - #36 ,
+INFO  17:13:48,683 - #45 niz3
+INFO  17:13:48,683 - #40 [
+INFO  17:13:48,683 - #41 ]
+INFO  17:13:48,683 - #34 ;
+INFO  17:13:48,683 - #45 int
+INFO  17:13:48,683 - #45 a
+INFO  17:13:48,683 - #36 ,
+INFO  17:13:48,684 - #45 b
+INFO  17:13:48,684 - #34 ;
+INFO  17:13:48,684 - #42 {
+INFO  17:13:48,684 - #43 }
+INFO  17:13:48,684 - #43 }
+INFO  17:13:48,684 - #45 int
+INFO  17:13:48,684 - #45 i
+INFO  17:13:48,684 - #34 ;
+INFO  17:13:48,684 - #45 bool
+INFO  17:13:48,684 - #45 ibool
+INFO  17:13:48,684 - #34 ;
+INFO  17:13:48,684 - #45 int
+INFO  17:13:48,685 - #45 niz2
+INFO  17:13:48,685 - #34 ;
+INFO  17:13:48,685 - #45 int
+INFO  17:13:48,685 - #45 niz
+INFO  17:13:48,685 - #40 [
+INFO  17:13:48,686 - #41 ]
+INFO  17:13:48,686 - #34 ;
+INFO  17:13:48,686 - #45 int
+INFO  17:13:48,686 - #45 a
+INFO  17:13:48,686 - #36 ,
+INFO  17:13:48,686 - #45 curr
+INFO  17:13:48,686 - #34 ;
+INFO  17:13:48,686 - #42 {
+INFO  17:13:48,686 - #45 bool
+INFO  17:13:48,686 - #45 verify
+INFO  17:13:48,686 - #38 (
+INFO  17:13:48,686 - #39 )
+INFO  17:13:48,687 - #42 {
+INFO  17:13:48,687 - #9 print
+INFO  17:13:48,687 - #38 (
+INFO  17:13:48,688 - #47 v
+INFO  17:13:48,688 - #39 )
+INFO  17:13:48,689 - #34 ;
+INFO  17:13:48,689 - #11 return
+INFO  17:13:48,689 - #46 false
+INFO  17:13:48,689 - #34 ;
+INFO  17:13:48,689 - #43 }
+INFO  17:13:48,689 - #12 void
+INFO  17:13:48,690 - #45 main
+INFO  17:13:48,690 - #38 (
+INFO  17:13:48,690 - #39 )
+INFO  17:13:48,690 - #42 {
+INFO  17:13:48,690 - #43 }
+INFO  17:13:48,690 - #43 }
+INFO  17:13:48,695 - Obradjuje se funkcija sum na liniji 9
+INFO  17:13:48,695 - Dodat je argument funkcije d na liniji 9
+INFO  17:13:48,695 - Dodat je argument funkcije z na liniji 9
+INFO  17:13:48,696 - Obradjuje se funkcija inkrement na liniji 15
+INFO  17:13:48,696 - Dodat je argument funkcije inc na liniji 15
+INFO  17:13:48,696 - Dodat je argument funkcije a na liniji 15
+INFO  17:13:48,697 - Deklarisana lokalna promenljiva pom na liniji 16
+INFO  17:13:48,697 - Deklarisan niz niz2 na liniji 28
+INFO  17:13:48,697 - Deklarisan niz niz3 na liniji 28
+INFO  17:13:48,697 - Deklarisan niz  niz na liniji 28
+INFO  17:13:48,697 - Deklarisana promenljiva b na liniji 29
+INFO  17:13:48,697 - Deklarisana promenljiva a na liniji 29
+INFO  17:13:48,697 - Deklarisana promenljiva i na liniji 34
+INFO  17:13:48,697 - Deklarisana promenljiva ibool na liniji 35
+INFO  17:13:48,697 - Deklarisana promenljiva niz2 na liniji 37
+INFO  17:13:48,697 - Deklarisan niz  niz na liniji 39
+INFO  17:13:48,698 - Deklarisana promenljiva curr na liniji 40
+INFO  17:13:48,698 - Deklarisana promenljiva a na liniji 40
+INFO  17:13:48,698 - Obradjuje se funkcija verify na liniji 45
+INFO  17:13:48,698 - Obradjuje se funkcija main na liniji 50
+INFO  17:13:48,698 - ===================================

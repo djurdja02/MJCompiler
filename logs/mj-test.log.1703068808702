@@ -1,0 +1,28 @@
+INFO  11:35:30,718 - Compiling source file: C:\Users\Laptop\Desktop\pp1\workspace\MJCompiler\test\program.mj
+INFO  11:35:30,835 - #2 program
+INFO  11:35:30,836 - #45 main
+INFO  11:35:30,837 - #17 namespace
+INFO  11:35:30,838 - #45 std
+INFO  11:35:30,838 - #42 {
+INFO  11:35:30,838 - #42 {
+INFO  11:35:30,840 - #43 }
+INFO  11:35:30,841 - #43 }
+INFO  11:35:30,842 - #42 {
+INFO  11:35:30,843 - #43 }
+INFO  11:35:30,844 - Prgram(
+ main
+  NmespaceList(
+    NoNamespaceList(
+    ) [NoNamespaceList]
+   std
+    NoDeclList(
+    ) [NoDeclList]
+    NoMethList(
+    ) [NoMethList]
+  ) [NmespaceList]
+  NoDeclList(
+  ) [NoDeclList]
+  NoMethList(
+  ) [NoMethList]
+) [Prgram]
+INFO  11:35:30,844 - ===================================

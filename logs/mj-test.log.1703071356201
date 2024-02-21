@@ -1,0 +1,188 @@
+INFO  12:21:43,748 - Compiling source file: C:\Users\Laptop\Desktop\pp1\workspace\MJCompiler\test\program.mj
+INFO  12:21:43,804 - #2 program
+INFO  12:21:43,804 - #45 molim
+INFO  12:21:43,804 - #17 namespace
+INFO  12:21:43,805 - #45 std
+INFO  12:21:43,805 - #42 {
+INFO  12:21:43,805 - #6 const
+INFO  12:21:43,806 - #45 int
+INFO  12:21:43,806 - #45 x
+INFO  12:21:43,807 - #31 =
+INFO  12:21:43,807 - #48 5
+INFO  12:21:43,807 - #34 ;
+INFO  12:21:43,807 - #45 int
+INFO  12:21:43,808 - #45 y
+INFO  12:21:43,808 - #36 ,
+INFO  12:21:43,809 - #45 z
+INFO  12:21:43,809 - #34 ;
+INFO  12:21:43,810 - #42 {
+INFO  12:21:43,810 - #43 }
+INFO  12:21:43,810 - #43 }
+INFO  12:21:43,811 - #17 namespace
+INFO  12:21:43,811 - #45 djuro
+INFO  12:21:43,812 - #42 {
+INFO  12:21:43,812 - #45 int
+INFO  12:21:43,812 - #45 y
+INFO  12:21:43,812 - #36 ,
+INFO  12:21:43,813 - #45 z
+INFO  12:21:43,813 - #34 ;
+INFO  12:21:43,813 - #42 {
+INFO  12:21:43,813 - #43 }
+INFO  12:21:43,813 - #43 }
+INFO  12:21:43,813 - #45 int
+INFO  12:21:43,813 - #45 y
+INFO  12:21:43,813 - #36 ,
+INFO  12:21:43,813 - #45 z
+INFO  12:21:43,813 - #34 ;
+INFO  12:21:43,813 - #6 const
+INFO  12:21:43,813 - #45 char
+INFO  12:21:43,813 - #45 c
+INFO  12:21:43,814 - #31 =
+INFO  12:21:43,814 - #47 a
+INFO  12:21:43,814 - #34 ;
+INFO  12:21:43,814 - #6 const
+INFO  12:21:43,814 - #45 bool
+INFO  12:21:43,814 - #45 a
+INFO  12:21:43,814 - #31 =
+INFO  12:21:43,814 - #46 true
+INFO  12:21:43,814 - #34 ;
+INFO  12:21:43,814 - #42 {
+INFO  12:21:43,814 - #43 }
+INFO  12:21:43,815 - Prgram(
+ molim
+  NmespaceList(
+    NmespaceList(
+      NoNamespaceList(
+      ) [NoNamespaceList]
+     std
+      DclList(
+        DclList(
+          NoDeclList(
+          ) [NoDeclList]
+          DclConstClass(
+            CnstD(
+              Typee(
+               int
+                NoIdenL(
+                ) [NoIdenL]
+              ) [Typee]
+             x
+              ConstantNUM(
+               5
+              ) [ConstantNUM]
+              ConstDListDerived1(
+              ) [ConstDListDerived1]
+            ) [CnstD]
+          ) [DclConstClass]
+        ) [DclList]
+        DclVarClass(
+          VrD(
+            Typee(
+             int
+              NoIdenL(
+              ) [NoIdenL]
+            ) [Typee]
+           y
+            NoBrackets(
+            ) [NoBrackets]
+            VrDList(
+              NoVarDList(
+              ) [NoVarDList]
+             z
+              NoBrackets(
+              ) [NoBrackets]
+            ) [VrDList]
+          ) [VrD]
+        ) [DclVarClass]
+      ) [DclList]
+      NoMethList(
+      ) [NoMethList]
+    ) [NmespaceList]
+   djuro
+    DclList(
+      NoDeclList(
+      ) [NoDeclList]
+      DclVarClass(
+        VrD(
+          Typee(
+           int
+            NoIdenL(
+            ) [NoIdenL]
+          ) [Typee]
+         y
+          NoBrackets(
+          ) [NoBrackets]
+          VrDList(
+            NoVarDList(
+            ) [NoVarDList]
+           z
+            NoBrackets(
+            ) [NoBrackets]
+          ) [VrDList]
+        ) [VrD]
+      ) [DclVarClass]
+    ) [DclList]
+    NoMethList(
+    ) [NoMethList]
+  ) [NmespaceList]
+  DclList(
+    DclList(
+      DclList(
+        NoDeclList(
+        ) [NoDeclList]
+        DclVarClass(
+          VrD(
+            Typee(
+             int
+              NoIdenL(
+              ) [NoIdenL]
+            ) [Typee]
+           y
+            NoBrackets(
+            ) [NoBrackets]
+            VrDList(
+              NoVarDList(
+              ) [NoVarDList]
+             z
+              NoBrackets(
+              ) [NoBrackets]
+            ) [VrDList]
+          ) [VrD]
+        ) [DclVarClass]
+      ) [DclList]
+      DclConstClass(
+        CnstD(
+          Typee(
+           char
+            NoIdenL(
+            ) [NoIdenL]
+          ) [Typee]
+         c
+          ConstantChar(
+           a
+          ) [ConstantChar]
+          ConstDListDerived1(
+          ) [ConstDListDerived1]
+        ) [CnstD]
+      ) [DclConstClass]
+    ) [DclList]
+    DclConstClass(
+      CnstD(
+        Typee(
+         bool
+          NoIdenL(
+          ) [NoIdenL]
+        ) [Typee]
+       a
+        ConstantBool(
+         true
+        ) [ConstantBool]
+        ConstDListDerived1(
+        ) [ConstDListDerived1]
+      ) [CnstD]
+    ) [DclConstClass]
+  ) [DclList]
+  NoMethList(
+  ) [NoMethList]
+) [Prgram]
+INFO  12:21:43,815 - ===================================

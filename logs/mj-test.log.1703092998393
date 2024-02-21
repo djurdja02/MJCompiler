@@ -1,0 +1,1665 @@
+INFO  18:11:40,048 - Compiling source file: C:\Users\Laptop\Desktop\pp1\workspace\MJCompiler\test\program.mj
+INFO  18:11:40,498 - #2 program
+INFO  18:11:40,498 - #45 molim
+INFO  18:11:40,498 - #17 namespace
+INFO  18:11:40,502 - #45 std
+INFO  18:11:40,502 - #42 {
+INFO  18:11:40,502 - #6 const
+INFO  18:11:40,506 - #45 int
+INFO  18:11:40,506 - #31 =
+ERROR 18:11:40,506 - 
+Sintaksna greska (=) na liniji 4
+INFO  18:11:40,506 - #48 5
+INFO  18:11:40,506 - #34 ;
+INFO  18:11:40,506 - #45 int
+INFO  18:11:40,507 - #45 condt
+INFO  18:11:40,507 - #45 y
+ERROR 18:11:40,507 - Izvrsen oporavak do ; 
+ERROR 18:11:40,514 - 
+Sintaksna greska (y) na liniji 5
+INFO  18:11:40,514 - #36 ,
+INFO  18:11:40,514 - #45 z
+INFO  18:11:40,514 - #34 ;
+INFO  18:11:40,516 - #42 {
+INFO  18:11:40,516 - #45 x
+INFO  18:11:40,516 - #31 =
+ERROR 18:11:40,516 - Izvrsen oporavak do ; 
+ERROR 18:11:40,518 - 
+Sintaksna greska (=) na liniji 7
+INFO  18:11:40,518 - #45 a
+INFO  18:11:40,518 - #27 <
+INFO  18:11:40,518 - #45 b
+INFO  18:11:40,518 - #36 ,
+INFO  18:11:40,518 - #45 c
+INFO  18:11:40,518 - #34 ;
+INFO  18:11:40,518 - #43 }
+INFO  18:11:40,519 - #43 }
+INFO  18:11:40,519 - #17 namespace
+INFO  18:11:40,519 - #45 djuro
+INFO  18:11:40,519 - #42 {
+INFO  18:11:40,519 - #45 int
+INFO  18:11:40,519 - #45 y
+INFO  18:11:40,519 - #40 [
+INFO  18:11:40,519 - #41 ]
+INFO  18:11:40,519 - #36 ,
+INFO  18:11:40,519 - #45 z
+INFO  18:11:40,520 - #34 ;
+INFO  18:11:40,520 - #42 {
+INFO  18:11:40,520 - #45 int
+INFO  18:11:40,520 - #45 getValue
+ERROR 18:11:40,520 - Izvrsen oporavak do ; 
+INFO  18:11:40,520 - #38 (
+INFO  18:11:40,520 - #45 int
+INFO  18:11:40,520 - #45 a
+INFO  18:11:40,520 - #36 ,
+INFO  18:11:40,533 - #45 bool
+INFO  18:11:40,533 - #45 k
+INFO  18:11:40,533 - #39 )
+INFO  18:11:40,533 - #45 int
+INFO  18:11:40,534 - #45 c
+INFO  18:11:40,534 - #34 ;
+INFO  18:11:40,535 - #45 bool
+INFO  18:11:40,536 - #45 d
+INFO  18:11:40,537 - #34 ;
+INFO  18:11:40,537 - #42 {
+INFO  18:11:40,537 - #43 }
+INFO  18:11:40,543 - #43 }
+INFO  18:11:40,544 - #43 }
+INFO  18:11:40,544 - #45 int
+INFO  18:11:40,545 - #45 y
+INFO  18:11:40,545 - #36 ,
+INFO  18:11:40,545 - #45 z
+INFO  18:11:40,546 - #34 ;
+INFO  18:11:40,546 - #6 const
+INFO  18:11:40,547 - #45 kdp
+INFO  18:11:40,547 - #35 :
+INFO  18:11:40,547 - #35 :
+INFO  18:11:40,547 - #45 char
+INFO  18:11:40,547 - #45 c
+INFO  18:11:40,547 - #31 =
+INFO  18:11:40,548 - #47 a
+INFO  18:11:40,548 - #34 ;
+INFO  18:11:40,554 - #6 const
+INFO  18:11:40,555 - #45 bool
+INFO  18:11:40,555 - #45 a
+INFO  18:11:40,555 - #31 =
+INFO  18:11:40,555 - #46 true
+INFO  18:11:40,555 - #34 ;
+INFO  18:11:40,555 - #42 {
+INFO  18:11:40,555 - #45 int
+INFO  18:11:40,556 - #45 getValue
+INFO  18:11:40,556 - #38 (
+INFO  18:11:40,556 - #45 int
+INFO  18:11:40,556 - #45 a
+INFO  18:11:40,556 - #40 [
+INFO  18:11:40,556 - #41 ]
+INFO  18:11:40,556 - #36 ,
+INFO  18:11:40,561 - #45 bool
+INFO  18:11:40,561 - #45 k
+INFO  18:11:40,561 - #39 )
+INFO  18:11:40,562 - #45 std
+INFO  18:11:40,562 - #35 :
+INFO  18:11:40,562 - #35 :
+INFO  18:11:40,562 - #45 int
+INFO  18:11:40,562 - #45 c
+INFO  18:11:40,562 - #34 ;
+INFO  18:11:40,563 - #45 bool
+INFO  18:11:40,563 - #45 d
+INFO  18:11:40,563 - #34 ;
+INFO  18:11:40,563 - #42 {
+INFO  18:11:40,563 - #42 {
+INFO  18:11:40,563 - #45 a
+INFO  18:11:40,563 - #31 =
+INFO  18:11:40,565 - #45 c
+INFO  18:11:40,579 - #37 .
+INFO  18:11:40,579 - #45 theA
+INFO  18:11:40,579 - #37 .
+INFO  18:11:40,580 - #45 x
+INFO  18:11:40,580 - #40 [
+INFO  18:11:40,580 - #48 0
+INFO  18:11:40,580 - #41 ]
+INFO  18:11:40,582 - #37 .
+INFO  18:11:40,582 - #45 getValue
+INFO  18:11:40,582 - #38 (
+INFO  18:11:40,582 - #45 k
+INFO  18:11:40,582 - #36 ,
+INFO  18:11:40,589 - #45 a
+INFO  18:11:40,590 - #18 +
+INFO  18:11:40,590 - #45 b
+INFO  18:11:40,596 - #39 )
+INFO  18:11:40,596 - #34 ;
+INFO  18:11:40,597 - #43 }
+INFO  18:11:40,597 - #9 print
+INFO  18:11:40,597 - #38 (
+INFO  18:11:40,598 - #45 c
+INFO  18:11:40,598 - #37 .
+INFO  18:11:40,598 - #45 getValue
+INFO  18:11:40,598 - #38 (
+INFO  18:11:40,598 - #39 )
+INFO  18:11:40,602 - #39 )
+INFO  18:11:40,602 - #34 ;
+INFO  18:11:40,602 - #7 if
+INFO  18:11:40,603 - #38 (
+INFO  18:11:40,603 - #45 a
+INFO  18:11:40,603 - #27 <
+INFO  18:11:40,603 - #45 b
+INFO  18:11:40,610 - #39 )
+INFO  18:11:40,614 - #11 return
+INFO  18:11:40,615 - #45 this
+INFO  18:11:40,615 - #37 .
+INFO  18:11:40,615 - #45 i
+INFO  18:11:40,615 - #18 +
+INFO  18:11:40,615 - #45 this
+INFO  18:11:40,615 - #37 .
+INFO  18:11:40,615 - #45 x
+INFO  18:11:40,615 - #40 [
+INFO  18:11:40,615 - #48 0
+INFO  18:11:40,615 - #41 ]
+INFO  18:11:40,615 - #18 +
+INFO  18:11:40,615 - #45 a
+INFO  18:11:40,615 - #34 ;
+INFO  18:11:40,616 - #5 else
+INFO  18:11:40,616 - #10 read
+INFO  18:11:40,616 - #38 (
+INFO  18:11:40,616 - #45 std
+INFO  18:11:40,616 - #35 :
+INFO  18:11:40,616 - #35 :
+INFO  18:11:40,616 - #45 stevo
+INFO  18:11:40,616 - #37 .
+INFO  18:11:40,616 - #45 debil
+INFO  18:11:40,617 - #39 )
+INFO  18:11:40,617 - #34 ;
+INFO  18:11:40,617 - #7 if
+INFO  18:11:40,618 - #38 (
+INFO  18:11:40,618 - #19 -
+INFO  18:11:40,618 - #45 a
+INFO  18:11:40,622 - #25 >
+INFO  18:11:40,622 - #45 b
+INFO  18:11:40,625 - #29 &&
+INFO  18:11:40,625 - #45 k
+INFO  18:11:40,625 - #23 ==
+INFO  18:11:40,625 - #48 45
+INFO  18:11:40,626 - #30 ||
+INFO  18:11:40,626 - #45 k
+INFO  18:11:40,626 - #39 )
+INFO  18:11:40,630 - #11 return
+INFO  18:11:40,630 - #45 this
+INFO  18:11:40,630 - #37 .
+INFO  18:11:40,630 - #45 i
+INFO  18:11:40,630 - #18 +
+INFO  18:11:40,630 - #45 this
+INFO  18:11:40,630 - #37 .
+INFO  18:11:40,630 - #45 x
+INFO  18:11:40,630 - #40 [
+INFO  18:11:40,630 - #48 0
+INFO  18:11:40,630 - #41 ]
+INFO  18:11:40,630 - #18 +
+INFO  18:11:40,630 - #45 a
+INFO  18:11:40,630 - #34 ;
+INFO  18:11:40,631 - #45 a
+INFO  18:11:40,631 - #31 =
+INFO  18:11:40,631 - #8 new
+INFO  18:11:40,631 - #45 A
+INFO  18:11:40,631 - #38 (
+INFO  18:11:40,631 - #39 )
+INFO  18:11:40,631 - #34 ;
+INFO  18:11:40,631 - #14 continue
+INFO  18:11:40,633 - #34 ;
+INFO  18:11:40,633 - #3 break
+INFO  18:11:40,633 - #34 ;
+INFO  18:11:40,633 - #11 return
+INFO  18:11:40,637 - #45 this
+INFO  18:11:40,637 - #37 .
+INFO  18:11:40,637 - #45 i
+INFO  18:11:40,637 - #18 +
+INFO  18:11:40,637 - #45 this
+INFO  18:11:40,637 - #37 .
+INFO  18:11:40,637 - #45 x
+INFO  18:11:40,637 - #40 [
+INFO  18:11:40,637 - #48 0
+INFO  18:11:40,637 - #41 ]
+INFO  18:11:40,637 - #18 +
+INFO  18:11:40,637 - #45 a
+INFO  18:11:40,637 - #34 ;
+INFO  18:11:40,637 - #10 read
+INFO  18:11:40,637 - #38 (
+INFO  18:11:40,637 - #45 std
+INFO  18:11:40,637 - #35 :
+INFO  18:11:40,637 - #35 :
+INFO  18:11:40,638 - #45 stevo
+INFO  18:11:40,638 - #37 .
+INFO  18:11:40,638 - #45 debil
+INFO  18:11:40,638 - #39 )
+INFO  18:11:40,638 - #34 ;
+INFO  18:11:40,638 - #45 a
+INFO  18:11:40,638 - #37 .
+INFO  18:11:40,638 - #45 x
+INFO  18:11:40,638 - #31 =
+INFO  18:11:40,638 - #8 new
+INFO  18:11:40,638 - #45 int
+INFO  18:11:40,638 - #40 [
+INFO  18:11:40,638 - #48 5
+INFO  18:11:40,638 - #41 ]
+INFO  18:11:40,638 - #34 ;
+INFO  18:11:40,638 - #45 a
+INFO  18:11:40,638 - #37 .
+INFO  18:11:40,638 - #45 y
+INFO  18:11:40,639 - #31 =
+INFO  18:11:40,639 - #8 new
+INFO  18:11:40,639 - #45 int
+INFO  18:11:40,639 - #40 [
+INFO  18:11:40,639 - #48 5
+INFO  18:11:40,639 - #41 ]
+INFO  18:11:40,639 - #34 ;
+INFO  18:11:40,639 - #45 c
+INFO  18:11:40,639 - #37 .
+INFO  18:11:40,639 - #45 theA
+INFO  18:11:40,639 - #31 =
+INFO  18:11:40,639 - #45 a
+INFO  18:11:40,639 - #34 ;
+INFO  18:11:40,639 - #45 c
+INFO  18:11:40,639 - #37 .
+INFO  18:11:40,639 - #45 x
+INFO  18:11:40,639 - #31 =
+INFO  18:11:40,640 - #8 new
+INFO  18:11:40,640 - #45 int
+INFO  18:11:40,640 - #40 [
+INFO  18:11:40,640 - #48 5
+INFO  18:11:40,640 - #41 ]
+INFO  18:11:40,640 - #34 ;
+INFO  18:11:40,640 - #45 x
+INFO  18:11:40,640 - #31 =
+INFO  18:11:40,640 - #8 new
+INFO  18:11:40,640 - #45 int
+INFO  18:11:40,640 - #40 [
+INFO  18:11:40,640 - #48 3
+INFO  18:11:40,640 - #41 ]
+INFO  18:11:40,640 - #34 ;
+INFO  18:11:40,640 - #10 read
+INFO  18:11:40,640 - #38 (
+INFO  18:11:40,640 - #45 c
+INFO  18:11:40,640 - #37 .
+INFO  18:11:40,641 - #45 i
+INFO  18:11:40,641 - #39 )
+INFO  18:11:40,641 - #34 ;
+INFO  18:11:40,641 - #45 i
+INFO  18:11:40,641 - #31 =
+INFO  18:11:40,641 - #48 0
+INFO  18:11:40,641 - #34 ;
+INFO  18:11:40,641 - #10 read
+INFO  18:11:40,641 - #38 (
+INFO  18:11:40,641 - #45 c
+INFO  18:11:40,641 - #37 .
+INFO  18:11:40,641 - #45 x
+INFO  18:11:40,641 - #40 [
+INFO  18:11:40,641 - #45 i
+INFO  18:11:40,641 - #41 ]
+INFO  18:11:40,641 - #39 )
+INFO  18:11:40,641 - #34 ;
+INFO  18:11:40,641 - #10 read
+INFO  18:11:40,641 - #38 (
+INFO  18:11:40,641 - #45 c
+INFO  18:11:40,641 - #37 .
+INFO  18:11:40,641 - #45 theA
+INFO  18:11:40,641 - #37 .
+INFO  18:11:40,641 - #45 x
+INFO  18:11:40,641 - #40 [
+INFO  18:11:40,641 - #45 i
+INFO  18:11:40,641 - #41 ]
+INFO  18:11:40,641 - #39 )
+INFO  18:11:40,643 - #34 ;
+INFO  18:11:40,643 - #45 i
+INFO  18:11:40,643 - #32 ++
+INFO  18:11:40,643 - #34 ;
+INFO  18:11:40,646 - #43 }
+INFO  18:11:40,646 - #43 }
+INFO  18:11:40,651 - Prgram(
+ molim
+  NmespaceList(
+    NoNamespaceList(
+    ) [NoNamespaceList]
+   std
+    DclList(
+      DclList(
+        DclList(
+          NoDeclList(
+          ) [NoDeclList]
+          ErrorGlobalVarSemi(
+          ) [ErrorGlobalVarSemi]
+        ) [DclList]
+        ErrorGlobalVarSemi(
+        ) [ErrorGlobalVarSemi]
+      ) [DclList]
+      ErrorGlobalVarSemi(
+      ) [ErrorGlobalVarSemi]
+    ) [DclList]
+    MthList(
+      NoMethList(
+      ) [NoMethList]
+      MthodDecl(
+        TypeListType(
+          Typee(
+           int
+            NoIdenL(
+            ) [NoIdenL]
+          ) [Typee]
+        ) [TypeListType]
+       getValue
+        FormLst(
+          FormParm(
+            Typee(
+             int
+              NoIdenL(
+              ) [NoIdenL]
+            ) [Typee]
+           a
+            NoBrackets(
+            ) [NoBrackets]
+            FrmL(
+              NoFormL(
+              ) [NoFormL]
+              Typee(
+               bool
+                NoIdenL(
+                ) [NoIdenL]
+              ) [Typee]
+             k
+              NoBrackets(
+              ) [NoBrackets]
+            ) [FrmL]
+          ) [FormParm]
+        ) [FormLst]
+        VarDeclLst(
+          VarDeclLst(
+            NoVarDeclList(
+            ) [NoVarDeclList]
+            VrD(
+              Typee(
+               int
+                NoIdenL(
+                ) [NoIdenL]
+              ) [Typee]
+             c
+              NoBrackets(
+              ) [NoBrackets]
+              NoVarDList(
+              ) [NoVarDList]
+            ) [VrD]
+          ) [VarDeclLst]
+          VrD(
+            Typee(
+             bool
+              NoIdenL(
+              ) [NoIdenL]
+            ) [Typee]
+           d
+            NoBrackets(
+            ) [NoBrackets]
+            NoVarDList(
+            ) [NoVarDList]
+          ) [VrD]
+        ) [VarDeclLst]
+        NoStateL(
+        ) [NoStateL]
+      ) [MthodDecl]
+    ) [MthList]
+  ) [NmespaceList]
+  DclList(
+    DclList(
+      DclList(
+        NoDeclList(
+        ) [NoDeclList]
+        DclVarClass(
+          VrD(
+            Typee(
+             int
+              NoIdenL(
+              ) [NoIdenL]
+            ) [Typee]
+           y
+            NoBrackets(
+            ) [NoBrackets]
+            VrDList(
+              NoVarDList(
+              ) [NoVarDList]
+             z
+              NoBrackets(
+              ) [NoBrackets]
+            ) [VrDList]
+          ) [VrD]
+        ) [DclVarClass]
+      ) [DclList]
+      DclConstClass(
+        CnstD(
+          Typee(
+           kdp
+            IdenLi(
+             char
+            ) [IdenLi]
+          ) [Typee]
+         c
+          ConstantChar(
+           a
+          ) [ConstantChar]
+          ConstDListDerived1(
+          ) [ConstDListDerived1]
+        ) [CnstD]
+      ) [DclConstClass]
+    ) [DclList]
+    DclConstClass(
+      CnstD(
+        Typee(
+         bool
+          NoIdenL(
+          ) [NoIdenL]
+        ) [Typee]
+       a
+        ConstantBool(
+         true
+        ) [ConstantBool]
+        ConstDListDerived1(
+        ) [ConstDListDerived1]
+      ) [CnstD]
+    ) [DclConstClass]
+  ) [DclList]
+  MthList(
+    NoMethList(
+    ) [NoMethList]
+    MthodDecl(
+      TypeListType(
+        Typee(
+         int
+          NoIdenL(
+          ) [NoIdenL]
+        ) [Typee]
+      ) [TypeListType]
+     getValue
+      FormLst(
+        FormParm(
+          Typee(
+           int
+            NoIdenL(
+            ) [NoIdenL]
+          ) [Typee]
+         a
+          Brckets(
+          ) [Brckets]
+          FrmL(
+            NoFormL(
+            ) [NoFormL]
+            Typee(
+             bool
+              NoIdenL(
+              ) [NoIdenL]
+            ) [Typee]
+           k
+            NoBrackets(
+            ) [NoBrackets]
+          ) [FrmL]
+        ) [FormParm]
+      ) [FormLst]
+      VarDeclLst(
+        VarDeclLst(
+          NoVarDeclList(
+          ) [NoVarDeclList]
+          VrD(
+            Typee(
+             std
+              IdenLi(
+               int
+              ) [IdenLi]
+            ) [Typee]
+           c
+            NoBrackets(
+            ) [NoBrackets]
+            NoVarDList(
+            ) [NoVarDList]
+          ) [VrD]
+        ) [VarDeclLst]
+        VrD(
+          Typee(
+           bool
+            NoIdenL(
+            ) [NoIdenL]
+          ) [Typee]
+         d
+          NoBrackets(
+          ) [NoBrackets]
+          NoVarDList(
+          ) [NoVarDList]
+        ) [VrD]
+      ) [VarDeclLst]
+      StatL(
+        StatL(
+          StatL(
+            StatL(
+              StatL(
+                StatL(
+                  StatL(
+                    StatL(
+                      StatL(
+                        StatL(
+                          StatL(
+                            StatL(
+                              StatL(
+                                StatL(
+                                  StatL(
+                                    StatL(
+                                      StatL(
+                                        StatL(
+                                          StatL(
+                                            NoStateL(
+                                            ) [NoStateL]
+                                            StatementBraces(
+                                              StatL(
+                                                NoStateL(
+                                                ) [NoStateL]
+                                                StatementDesignatorStatement(
+                                                  DesignatorStatement1(
+                                                    DesignatorYes(
+                                                     a
+                                                      NoIdenL(
+                                                      ) [NoIdenL]
+                                                      NoDesigRep(
+                                                      ) [NoDesigRep]
+                                                    ) [DesignatorYes]
+                                                    DSChoose1(
+                                                      AssignopEq(
+                                                      ) [AssignopEq]
+                                                      ExprMin(
+                                                        NoMinOpt(
+                                                        ) [NoMinOpt]
+                                                        Terms(
+                                                          Factor1(
+                                                            DesignatorYes(
+                                                             c
+                                                              NoIdenL(
+                                                              ) [NoIdenL]
+                                                              DesigRepYes(
+                                                                DesigRepYes(
+                                                                  DesigRepYes(
+                                                                    DesigRepYes(
+                                                                      NoDesigRep(
+                                                                      ) [NoDesigRep]
+                                                                      DesigRepChooseDot(
+                                                                       theA
+                                                                      ) [DesigRepChooseDot]
+                                                                    ) [DesigRepYes]
+                                                                    DesigRepChooseDot(
+                                                                     x
+                                                                    ) [DesigRepChooseDot]
+                                                                  ) [DesigRepYes]
+                                                                  NoDesigRepChoose(
+                                                                    ExprMin(
+                                                                      NoMinOpt(
+                                                                      ) [NoMinOpt]
+                                                                      Terms(
+                                                                        Factor2(
+                                                                         0
+                                                                        ) [Factor2]
+                                                                        NoMulopFOpt(
+                                                                        ) [NoMulopFOpt]
+                                                                      ) [Terms]
+                                                                      NoAddopOpt(
+                                                                      ) [NoAddopOpt]
+                                                                    ) [ExprMin]
+                                                                  ) [NoDesigRepChoose]
+                                                                ) [DesigRepYes]
+                                                                DesigRepChooseDot(
+                                                                 getValue
+                                                                ) [DesigRepChooseDot]
+                                                              ) [DesigRepYes]
+                                                            ) [DesignatorYes]
+                                                            FactOpt1Yes(
+                                                              APmaybeYes(
+                                                                ActParsexp(
+                                                                  ExprMin(
+                                                                    NoMinOpt(
+                                                                    ) [NoMinOpt]
+                                                                    Terms(
+                                                                      Factor1(
+                                                                        DesignatorYes(
+                                                                         k
+                                                                          NoIdenL(
+                                                                          ) [NoIdenL]
+                                                                          NoDesigRep(
+                                                                          ) [NoDesigRep]
+                                                                        ) [DesignatorYes]
+                                                                        NoFactOpt1(
+                                                                        ) [NoFactOpt1]
+                                                                      ) [Factor1]
+                                                                      NoMulopFOpt(
+                                                                      ) [NoMulopFOpt]
+                                                                    ) [Terms]
+                                                                    NoAddopOpt(
+                                                                    ) [NoAddopOpt]
+                                                                  ) [ExprMin]
+                                                                  ExprCommaexpr(
+                                                                    NoExprCommaexpr(
+                                                                    ) [NoExprCommaexpr]
+                                                                    ExprMin(
+                                                                      NoMinOpt(
+                                                                      ) [NoMinOpt]
+                                                                      Terms(
+                                                                        Factor1(
+                                                                          DesignatorYes(
+                                                                           a
+                                                                            NoIdenL(
+                                                                            ) [NoIdenL]
+                                                                            NoDesigRep(
+                                                                            ) [NoDesigRep]
+                                                                          ) [DesignatorYes]
+                                                                          NoFactOpt1(
+                                                                          ) [NoFactOpt1]
+                                                                        ) [Factor1]
+                                                                        NoMulopFOpt(
+                                                                        ) [NoMulopFOpt]
+                                                                      ) [Terms]
+                                                                      AddopOptYes(
+                                                                        NoAddopOpt(
+                                                                        ) [NoAddopOpt]
+                                                                        AddopP(
+                                                                        ) [AddopP]
+                                                                        Terms(
+                                                                          Factor1(
+                                                                            DesignatorYes(
+                                                                             b
+                                                                              NoIdenL(
+                                                                              ) [NoIdenL]
+                                                                              NoDesigRep(
+                                                                              ) [NoDesigRep]
+                                                                            ) [DesignatorYes]
+                                                                            NoFactOpt1(
+                                                                            ) [NoFactOpt1]
+                                                                          ) [Factor1]
+                                                                          NoMulopFOpt(
+                                                                          ) [NoMulopFOpt]
+                                                                        ) [Terms]
+                                                                      ) [AddopOptYes]
+                                                                    ) [ExprMin]
+                                                                  ) [ExprCommaexpr]
+                                                                ) [ActParsexp]
+                                                              ) [APmaybeYes]
+                                                            ) [FactOpt1Yes]
+                                                          ) [Factor1]
+                                                          NoMulopFOpt(
+                                                          ) [NoMulopFOpt]
+                                                        ) [Terms]
+                                                        NoAddopOpt(
+                                                        ) [NoAddopOpt]
+                                                      ) [ExprMin]
+                                                    ) [DSChoose1]
+                                                  ) [DesignatorStatement1]
+                                                ) [StatementDesignatorStatement]
+                                              ) [StatL]
+                                            ) [StatementBraces]
+                                          ) [StatL]
+                                          StatementPrint(
+                                            ExprMin(
+                                              NoMinOpt(
+                                              ) [NoMinOpt]
+                                              Terms(
+                                                Factor1(
+                                                  DesignatorYes(
+                                                   c
+                                                    NoIdenL(
+                                                    ) [NoIdenL]
+                                                    DesigRepYes(
+                                                      NoDesigRep(
+                                                      ) [NoDesigRep]
+                                                      DesigRepChooseDot(
+                                                       getValue
+                                                      ) [DesigRepChooseDot]
+                                                    ) [DesigRepYes]
+                                                  ) [DesignatorYes]
+                                                  FactOpt1Yes(
+                                                    APmaybeNo(
+                                                    ) [APmaybeNo]
+                                                  ) [FactOpt1Yes]
+                                                ) [Factor1]
+                                                NoMulopFOpt(
+                                                ) [NoMulopFOpt]
+                                              ) [Terms]
+                                              NoAddopOpt(
+                                              ) [NoAddopOpt]
+                                            ) [ExprMin]
+                                            NoNN(
+                                            ) [NoNN]
+                                          ) [StatementPrint]
+                                        ) [StatL]
+                                        StatementIF(
+                                          Conditioncond(
+                                            CondTerms(
+                                              CondFactrelop(
+                                                ExprMin(
+                                                  NoMinOpt(
+                                                  ) [NoMinOpt]
+                                                  Terms(
+                                                    Factor1(
+                                                      DesignatorYes(
+                                                       a
+                                                        NoIdenL(
+                                                        ) [NoIdenL]
+                                                        NoDesigRep(
+                                                        ) [NoDesigRep]
+                                                      ) [DesignatorYes]
+                                                      NoFactOpt1(
+                                                      ) [NoFactOpt1]
+                                                    ) [Factor1]
+                                                    NoMulopFOpt(
+                                                    ) [NoMulopFOpt]
+                                                  ) [Terms]
+                                                  NoAddopOpt(
+                                                  ) [NoAddopOpt]
+                                                ) [ExprMin]
+                                                RelOptYes(
+                                                  RelopL(
+                                                  ) [RelopL]
+                                                  ExprMin(
+                                                    NoMinOpt(
+                                                    ) [NoMinOpt]
+                                                    Terms(
+                                                      Factor1(
+                                                        DesignatorYes(
+                                                         b
+                                                          NoIdenL(
+                                                          ) [NoIdenL]
+                                                          NoDesigRep(
+                                                          ) [NoDesigRep]
+                                                        ) [DesignatorYes]
+                                                        NoFactOpt1(
+                                                        ) [NoFactOpt1]
+                                                      ) [Factor1]
+                                                      NoMulopFOpt(
+                                                      ) [NoMulopFOpt]
+                                                    ) [Terms]
+                                                    NoAddopOpt(
+                                                    ) [NoAddopOpt]
+                                                  ) [ExprMin]
+                                                ) [RelOptYes]
+                                              ) [CondFactrelop]
+                                              CondFactANo(
+                                              ) [CondFactANo]
+                                            ) [CondTerms]
+                                            CondTONo(
+                                            ) [CondTONo]
+                                          ) [Conditioncond]
+                                          StatementReturn(
+                                            ExprLi(
+                                              ExprMin(
+                                                NoMinOpt(
+                                                ) [NoMinOpt]
+                                                Terms(
+                                                  Factor1(
+                                                    DesignatorYes(
+                                                     this
+                                                      NoIdenL(
+                                                      ) [NoIdenL]
+                                                      DesigRepYes(
+                                                        NoDesigRep(
+                                                        ) [NoDesigRep]
+                                                        DesigRepChooseDot(
+                                                         i
+                                                        ) [DesigRepChooseDot]
+                                                      ) [DesigRepYes]
+                                                    ) [DesignatorYes]
+                                                    NoFactOpt1(
+                                                    ) [NoFactOpt1]
+                                                  ) [Factor1]
+                                                  NoMulopFOpt(
+                                                  ) [NoMulopFOpt]
+                                                ) [Terms]
+                                                AddopOptYes(
+                                                  AddopOptYes(
+                                                    NoAddopOpt(
+                                                    ) [NoAddopOpt]
+                                                    AddopP(
+                                                    ) [AddopP]
+                                                    Terms(
+                                                      Factor1(
+                                                        DesignatorYes(
+                                                         this
+                                                          NoIdenL(
+                                                          ) [NoIdenL]
+                                                          DesigRepYes(
+                                                            DesigRepYes(
+                                                              NoDesigRep(
+                                                              ) [NoDesigRep]
+                                                              DesigRepChooseDot(
+                                                               x
+                                                              ) [DesigRepChooseDot]
+                                                            ) [DesigRepYes]
+                                                            NoDesigRepChoose(
+                                                              ExprMin(
+                                                                NoMinOpt(
+                                                                ) [NoMinOpt]
+                                                                Terms(
+                                                                  Factor2(
+                                                                   0
+                                                                  ) [Factor2]
+                                                                  NoMulopFOpt(
+                                                                  ) [NoMulopFOpt]
+                                                                ) [Terms]
+                                                                NoAddopOpt(
+                                                                ) [NoAddopOpt]
+                                                              ) [ExprMin]
+                                                            ) [NoDesigRepChoose]
+                                                          ) [DesigRepYes]
+                                                        ) [DesignatorYes]
+                                                        NoFactOpt1(
+                                                        ) [NoFactOpt1]
+                                                      ) [Factor1]
+                                                      NoMulopFOpt(
+                                                      ) [NoMulopFOpt]
+                                                    ) [Terms]
+                                                  ) [AddopOptYes]
+                                                  AddopP(
+                                                  ) [AddopP]
+                                                  Terms(
+                                                    Factor1(
+                                                      DesignatorYes(
+                                                       a
+                                                        NoIdenL(
+                                                        ) [NoIdenL]
+                                                        NoDesigRep(
+                                                        ) [NoDesigRep]
+                                                      ) [DesignatorYes]
+                                                      NoFactOpt1(
+                                                      ) [NoFactOpt1]
+                                                    ) [Factor1]
+                                                    NoMulopFOpt(
+                                                    ) [NoMulopFOpt]
+                                                  ) [Terms]
+                                                ) [AddopOptYes]
+                                              ) [ExprMin]
+                                            ) [ExprLi]
+                                          ) [StatementReturn]
+                                          ElseLi(
+                                            StatementRead(
+                                              DesignatorYes(
+                                               std
+                                                IdenLi(
+                                                 stevo
+                                                ) [IdenLi]
+                                                DesigRepYes(
+                                                  NoDesigRep(
+                                                  ) [NoDesigRep]
+                                                  DesigRepChooseDot(
+                                                   debil
+                                                  ) [DesigRepChooseDot]
+                                                ) [DesigRepYes]
+                                              ) [DesignatorYes]
+                                            ) [StatementRead]
+                                          ) [ElseLi]
+                                        ) [StatementIF]
+                                      ) [StatL]
+                                      StatementIF(
+                                        Conditioncond(
+                                          CondTerms(
+                                            CondFactrelop(
+                                              ExprMin(
+                                                MinOptYes(
+                                                ) [MinOptYes]
+                                                Terms(
+                                                  Factor1(
+                                                    DesignatorYes(
+                                                     a
+                                                      NoIdenL(
+                                                      ) [NoIdenL]
+                                                      NoDesigRep(
+                                                      ) [NoDesigRep]
+                                                    ) [DesignatorYes]
+                                                    NoFactOpt1(
+                                                    ) [NoFactOpt1]
+                                                  ) [Factor1]
+                                                  NoMulopFOpt(
+                                                  ) [NoMulopFOpt]
+                                                ) [Terms]
+                                                NoAddopOpt(
+                                                ) [NoAddopOpt]
+                                              ) [ExprMin]
+                                              RelOptYes(
+                                                RelopB(
+                                                ) [RelopB]
+                                                ExprMin(
+                                                  NoMinOpt(
+                                                  ) [NoMinOpt]
+                                                  Terms(
+                                                    Factor1(
+                                                      DesignatorYes(
+                                                       b
+                                                        NoIdenL(
+                                                        ) [NoIdenL]
+                                                        NoDesigRep(
+                                                        ) [NoDesigRep]
+                                                      ) [DesignatorYes]
+                                                      NoFactOpt1(
+                                                      ) [NoFactOpt1]
+                                                    ) [Factor1]
+                                                    NoMulopFOpt(
+                                                    ) [NoMulopFOpt]
+                                                  ) [Terms]
+                                                  NoAddopOpt(
+                                                  ) [NoAddopOpt]
+                                                ) [ExprMin]
+                                              ) [RelOptYes]
+                                            ) [CondFactrelop]
+                                            CondFactAYes(
+                                              CondFactANo(
+                                              ) [CondFactANo]
+                                              CondFactrelop(
+                                                ExprMin(
+                                                  NoMinOpt(
+                                                  ) [NoMinOpt]
+                                                  Terms(
+                                                    Factor1(
+                                                      DesignatorYes(
+                                                       k
+                                                        NoIdenL(
+                                                        ) [NoIdenL]
+                                                        NoDesigRep(
+                                                        ) [NoDesigRep]
+                                                      ) [DesignatorYes]
+                                                      NoFactOpt1(
+                                                      ) [NoFactOpt1]
+                                                    ) [Factor1]
+                                                    NoMulopFOpt(
+                                                    ) [NoMulopFOpt]
+                                                  ) [Terms]
+                                                  NoAddopOpt(
+                                                  ) [NoAddopOpt]
+                                                ) [ExprMin]
+                                                RelOptYes(
+                                                  RelopEE(
+                                                  ) [RelopEE]
+                                                  ExprMin(
+                                                    NoMinOpt(
+                                                    ) [NoMinOpt]
+                                                    Terms(
+                                                      Factor2(
+                                                       45
+                                                      ) [Factor2]
+                                                      NoMulopFOpt(
+                                                      ) [NoMulopFOpt]
+                                                    ) [Terms]
+                                                    NoAddopOpt(
+                                                    ) [NoAddopOpt]
+                                                  ) [ExprMin]
+                                                ) [RelOptYes]
+                                              ) [CondFactrelop]
+                                            ) [CondFactAYes]
+                                          ) [CondTerms]
+                                          CondTOYes(
+                                            CondTONo(
+                                            ) [CondTONo]
+                                            CondTerms(
+                                              CondFactrelop(
+                                                ExprMin(
+                                                  NoMinOpt(
+                                                  ) [NoMinOpt]
+                                                  Terms(
+                                                    Factor1(
+                                                      DesignatorYes(
+                                                       k
+                                                        NoIdenL(
+                                                        ) [NoIdenL]
+                                                        NoDesigRep(
+                                                        ) [NoDesigRep]
+                                                      ) [DesignatorYes]
+                                                      NoFactOpt1(
+                                                      ) [NoFactOpt1]
+                                                    ) [Factor1]
+                                                    NoMulopFOpt(
+                                                    ) [NoMulopFOpt]
+                                                  ) [Terms]
+                                                  NoAddopOpt(
+                                                  ) [NoAddopOpt]
+                                                ) [ExprMin]
+                                                RelOptNo(
+                                                ) [RelOptNo]
+                                              ) [CondFactrelop]
+                                              CondFactANo(
+                                              ) [CondFactANo]
+                                            ) [CondTerms]
+                                          ) [CondTOYes]
+                                        ) [Conditioncond]
+                                        StatementReturn(
+                                          ExprLi(
+                                            ExprMin(
+                                              NoMinOpt(
+                                              ) [NoMinOpt]
+                                              Terms(
+                                                Factor1(
+                                                  DesignatorYes(
+                                                   this
+                                                    NoIdenL(
+                                                    ) [NoIdenL]
+                                                    DesigRepYes(
+                                                      NoDesigRep(
+                                                      ) [NoDesigRep]
+                                                      DesigRepChooseDot(
+                                                       i
+                                                      ) [DesigRepChooseDot]
+                                                    ) [DesigRepYes]
+                                                  ) [DesignatorYes]
+                                                  NoFactOpt1(
+                                                  ) [NoFactOpt1]
+                                                ) [Factor1]
+                                                NoMulopFOpt(
+                                                ) [NoMulopFOpt]
+                                              ) [Terms]
+                                              AddopOptYes(
+                                                AddopOptYes(
+                                                  NoAddopOpt(
+                                                  ) [NoAddopOpt]
+                                                  AddopP(
+                                                  ) [AddopP]
+                                                  Terms(
+                                                    Factor1(
+                                                      DesignatorYes(
+                                                       this
+                                                        NoIdenL(
+                                                        ) [NoIdenL]
+                                                        DesigRepYes(
+                                                          DesigRepYes(
+                                                            NoDesigRep(
+                                                            ) [NoDesigRep]
+                                                            DesigRepChooseDot(
+                                                             x
+                                                            ) [DesigRepChooseDot]
+                                                          ) [DesigRepYes]
+                                                          NoDesigRepChoose(
+                                                            ExprMin(
+                                                              NoMinOpt(
+                                                              ) [NoMinOpt]
+                                                              Terms(
+                                                                Factor2(
+                                                                 0
+                                                                ) [Factor2]
+                                                                NoMulopFOpt(
+                                                                ) [NoMulopFOpt]
+                                                              ) [Terms]
+                                                              NoAddopOpt(
+                                                              ) [NoAddopOpt]
+                                                            ) [ExprMin]
+                                                          ) [NoDesigRepChoose]
+                                                        ) [DesigRepYes]
+                                                      ) [DesignatorYes]
+                                                      NoFactOpt1(
+                                                      ) [NoFactOpt1]
+                                                    ) [Factor1]
+                                                    NoMulopFOpt(
+                                                    ) [NoMulopFOpt]
+                                                  ) [Terms]
+                                                ) [AddopOptYes]
+                                                AddopP(
+                                                ) [AddopP]
+                                                Terms(
+                                                  Factor1(
+                                                    DesignatorYes(
+                                                     a
+                                                      NoIdenL(
+                                                      ) [NoIdenL]
+                                                      NoDesigRep(
+                                                      ) [NoDesigRep]
+                                                    ) [DesignatorYes]
+                                                    NoFactOpt1(
+                                                    ) [NoFactOpt1]
+                                                  ) [Factor1]
+                                                  NoMulopFOpt(
+                                                  ) [NoMulopFOpt]
+                                                ) [Terms]
+                                              ) [AddopOptYes]
+                                            ) [ExprMin]
+                                          ) [ExprLi]
+                                        ) [StatementReturn]
+                                        NoElseL(
+                                        ) [NoElseL]
+                                      ) [StatementIF]
+                                    ) [StatL]
+                                    StatementDesignatorStatement(
+                                      DesignatorStatement1(
+                                        DesignatorYes(
+                                         a
+                                          NoIdenL(
+                                          ) [NoIdenL]
+                                          NoDesigRep(
+                                          ) [NoDesigRep]
+                                        ) [DesignatorYes]
+                                        DSChoose1(
+                                          AssignopEq(
+                                          ) [AssignopEq]
+                                          ExprMin(
+                                            NoMinOpt(
+                                            ) [NoMinOpt]
+                                            Terms(
+                                              Factor5(
+                                                Typee(
+                                                 A
+                                                  NoIdenL(
+                                                  ) [NoIdenL]
+                                                ) [Typee]
+                                                FactorOr12(
+                                                  APmaybeNo(
+                                                  ) [APmaybeNo]
+                                                ) [FactorOr12]
+                                              ) [Factor5]
+                                              NoMulopFOpt(
+                                              ) [NoMulopFOpt]
+                                            ) [Terms]
+                                            NoAddopOpt(
+                                            ) [NoAddopOpt]
+                                          ) [ExprMin]
+                                        ) [DSChoose1]
+                                      ) [DesignatorStatement1]
+                                    ) [StatementDesignatorStatement]
+                                  ) [StatL]
+                                  StatementContinue(
+                                  ) [StatementContinue]
+                                ) [StatL]
+                                StatementBreak(
+                                ) [StatementBreak]
+                              ) [StatL]
+                              StatementReturn(
+                                ExprLi(
+                                  ExprMin(
+                                    NoMinOpt(
+                                    ) [NoMinOpt]
+                                    Terms(
+                                      Factor1(
+                                        DesignatorYes(
+                                         this
+                                          NoIdenL(
+                                          ) [NoIdenL]
+                                          DesigRepYes(
+                                            NoDesigRep(
+                                            ) [NoDesigRep]
+                                            DesigRepChooseDot(
+                                             i
+                                            ) [DesigRepChooseDot]
+                                          ) [DesigRepYes]
+                                        ) [DesignatorYes]
+                                        NoFactOpt1(
+                                        ) [NoFactOpt1]
+                                      ) [Factor1]
+                                      NoMulopFOpt(
+                                      ) [NoMulopFOpt]
+                                    ) [Terms]
+                                    AddopOptYes(
+                                      AddopOptYes(
+                                        NoAddopOpt(
+                                        ) [NoAddopOpt]
+                                        AddopP(
+                                        ) [AddopP]
+                                        Terms(
+                                          Factor1(
+                                            DesignatorYes(
+                                             this
+                                              NoIdenL(
+                                              ) [NoIdenL]
+                                              DesigRepYes(
+                                                DesigRepYes(
+                                                  NoDesigRep(
+                                                  ) [NoDesigRep]
+                                                  DesigRepChooseDot(
+                                                   x
+                                                  ) [DesigRepChooseDot]
+                                                ) [DesigRepYes]
+                                                NoDesigRepChoose(
+                                                  ExprMin(
+                                                    NoMinOpt(
+                                                    ) [NoMinOpt]
+                                                    Terms(
+                                                      Factor2(
+                                                       0
+                                                      ) [Factor2]
+                                                      NoMulopFOpt(
+                                                      ) [NoMulopFOpt]
+                                                    ) [Terms]
+                                                    NoAddopOpt(
+                                                    ) [NoAddopOpt]
+                                                  ) [ExprMin]
+                                                ) [NoDesigRepChoose]
+                                              ) [DesigRepYes]
+                                            ) [DesignatorYes]
+                                            NoFactOpt1(
+                                            ) [NoFactOpt1]
+                                          ) [Factor1]
+                                          NoMulopFOpt(
+                                          ) [NoMulopFOpt]
+                                        ) [Terms]
+                                      ) [AddopOptYes]
+                                      AddopP(
+                                      ) [AddopP]
+                                      Terms(
+                                        Factor1(
+                                          DesignatorYes(
+                                           a
+                                            NoIdenL(
+                                            ) [NoIdenL]
+                                            NoDesigRep(
+                                            ) [NoDesigRep]
+                                          ) [DesignatorYes]
+                                          NoFactOpt1(
+                                          ) [NoFactOpt1]
+                                        ) [Factor1]
+                                        NoMulopFOpt(
+                                        ) [NoMulopFOpt]
+                                      ) [Terms]
+                                    ) [AddopOptYes]
+                                  ) [ExprMin]
+                                ) [ExprLi]
+                              ) [StatementReturn]
+                            ) [StatL]
+                            StatementRead(
+                              DesignatorYes(
+                               std
+                                IdenLi(
+                                 stevo
+                                ) [IdenLi]
+                                DesigRepYes(
+                                  NoDesigRep(
+                                  ) [NoDesigRep]
+                                  DesigRepChooseDot(
+                                   debil
+                                  ) [DesigRepChooseDot]
+                                ) [DesigRepYes]
+                              ) [DesignatorYes]
+                            ) [StatementRead]
+                          ) [StatL]
+                          StatementDesignatorStatement(
+                            DesignatorStatement1(
+                              DesignatorYes(
+                               a
+                                NoIdenL(
+                                ) [NoIdenL]
+                                DesigRepYes(
+                                  NoDesigRep(
+                                  ) [NoDesigRep]
+                                  DesigRepChooseDot(
+                                   x
+                                  ) [DesigRepChooseDot]
+                                ) [DesigRepYes]
+                              ) [DesignatorYes]
+                              DSChoose1(
+                                AssignopEq(
+                                ) [AssignopEq]
+                                ExprMin(
+                                  NoMinOpt(
+                                  ) [NoMinOpt]
+                                  Terms(
+                                    Factor5(
+                                      Typee(
+                                       int
+                                        NoIdenL(
+                                        ) [NoIdenL]
+                                      ) [Typee]
+                                      FactorOr11(
+                                        ExprMin(
+                                          NoMinOpt(
+                                          ) [NoMinOpt]
+                                          Terms(
+                                            Factor2(
+                                             5
+                                            ) [Factor2]
+                                            NoMulopFOpt(
+                                            ) [NoMulopFOpt]
+                                          ) [Terms]
+                                          NoAddopOpt(
+                                          ) [NoAddopOpt]
+                                        ) [ExprMin]
+                                      ) [FactorOr11]
+                                    ) [Factor5]
+                                    NoMulopFOpt(
+                                    ) [NoMulopFOpt]
+                                  ) [Terms]
+                                  NoAddopOpt(
+                                  ) [NoAddopOpt]
+                                ) [ExprMin]
+                              ) [DSChoose1]
+                            ) [DesignatorStatement1]
+                          ) [StatementDesignatorStatement]
+                        ) [StatL]
+                        StatementDesignatorStatement(
+                          DesignatorStatement1(
+                            DesignatorYes(
+                             a
+                              NoIdenL(
+                              ) [NoIdenL]
+                              DesigRepYes(
+                                NoDesigRep(
+                                ) [NoDesigRep]
+                                DesigRepChooseDot(
+                                 y
+                                ) [DesigRepChooseDot]
+                              ) [DesigRepYes]
+                            ) [DesignatorYes]
+                            DSChoose1(
+                              AssignopEq(
+                              ) [AssignopEq]
+                              ExprMin(
+                                NoMinOpt(
+                                ) [NoMinOpt]
+                                Terms(
+                                  Factor5(
+                                    Typee(
+                                     int
+                                      NoIdenL(
+                                      ) [NoIdenL]
+                                    ) [Typee]
+                                    FactorOr11(
+                                      ExprMin(
+                                        NoMinOpt(
+                                        ) [NoMinOpt]
+                                        Terms(
+                                          Factor2(
+                                           5
+                                          ) [Factor2]
+                                          NoMulopFOpt(
+                                          ) [NoMulopFOpt]
+                                        ) [Terms]
+                                        NoAddopOpt(
+                                        ) [NoAddopOpt]
+                                      ) [ExprMin]
+                                    ) [FactorOr11]
+                                  ) [Factor5]
+                                  NoMulopFOpt(
+                                  ) [NoMulopFOpt]
+                                ) [Terms]
+                                NoAddopOpt(
+                                ) [NoAddopOpt]
+                              ) [ExprMin]
+                            ) [DSChoose1]
+                          ) [DesignatorStatement1]
+                        ) [StatementDesignatorStatement]
+                      ) [StatL]
+                      StatementDesignatorStatement(
+                        DesignatorStatement1(
+                          DesignatorYes(
+                           c
+                            NoIdenL(
+                            ) [NoIdenL]
+                            DesigRepYes(
+                              NoDesigRep(
+                              ) [NoDesigRep]
+                              DesigRepChooseDot(
+                               theA
+                              ) [DesigRepChooseDot]
+                            ) [DesigRepYes]
+                          ) [DesignatorYes]
+                          DSChoose1(
+                            AssignopEq(
+                            ) [AssignopEq]
+                            ExprMin(
+                              NoMinOpt(
+                              ) [NoMinOpt]
+                              Terms(
+                                Factor1(
+                                  DesignatorYes(
+                                   a
+                                    NoIdenL(
+                                    ) [NoIdenL]
+                                    NoDesigRep(
+                                    ) [NoDesigRep]
+                                  ) [DesignatorYes]
+                                  NoFactOpt1(
+                                  ) [NoFactOpt1]
+                                ) [Factor1]
+                                NoMulopFOpt(
+                                ) [NoMulopFOpt]
+                              ) [Terms]
+                              NoAddopOpt(
+                              ) [NoAddopOpt]
+                            ) [ExprMin]
+                          ) [DSChoose1]
+                        ) [DesignatorStatement1]
+                      ) [StatementDesignatorStatement]
+                    ) [StatL]
+                    StatementDesignatorStatement(
+                      DesignatorStatement1(
+                        DesignatorYes(
+                         c
+                          NoIdenL(
+                          ) [NoIdenL]
+                          DesigRepYes(
+                            NoDesigRep(
+                            ) [NoDesigRep]
+                            DesigRepChooseDot(
+                             x
+                            ) [DesigRepChooseDot]
+                          ) [DesigRepYes]
+                        ) [DesignatorYes]
+                        DSChoose1(
+                          AssignopEq(
+                          ) [AssignopEq]
+                          ExprMin(
+                            NoMinOpt(
+                            ) [NoMinOpt]
+                            Terms(
+                              Factor5(
+                                Typee(
+                                 int
+                                  NoIdenL(
+                                  ) [NoIdenL]
+                                ) [Typee]
+                                FactorOr11(
+                                  ExprMin(
+                                    NoMinOpt(
+                                    ) [NoMinOpt]
+                                    Terms(
+                                      Factor2(
+                                       5
+                                      ) [Factor2]
+                                      NoMulopFOpt(
+                                      ) [NoMulopFOpt]
+                                    ) [Terms]
+                                    NoAddopOpt(
+                                    ) [NoAddopOpt]
+                                  ) [ExprMin]
+                                ) [FactorOr11]
+                              ) [Factor5]
+                              NoMulopFOpt(
+                              ) [NoMulopFOpt]
+                            ) [Terms]
+                            NoAddopOpt(
+                            ) [NoAddopOpt]
+                          ) [ExprMin]
+                        ) [DSChoose1]
+                      ) [DesignatorStatement1]
+                    ) [StatementDesignatorStatement]
+                  ) [StatL]
+                  StatementDesignatorStatement(
+                    DesignatorStatement1(
+                      DesignatorYes(
+                       x
+                        NoIdenL(
+                        ) [NoIdenL]
+                        NoDesigRep(
+                        ) [NoDesigRep]
+                      ) [DesignatorYes]
+                      DSChoose1(
+                        AssignopEq(
+                        ) [AssignopEq]
+                        ExprMin(
+                          NoMinOpt(
+                          ) [NoMinOpt]
+                          Terms(
+                            Factor5(
+                              Typee(
+                               int
+                                NoIdenL(
+                                ) [NoIdenL]
+                              ) [Typee]
+                              FactorOr11(
+                                ExprMin(
+                                  NoMinOpt(
+                                  ) [NoMinOpt]
+                                  Terms(
+                                    Factor2(
+                                     3
+                                    ) [Factor2]
+                                    NoMulopFOpt(
+                                    ) [NoMulopFOpt]
+                                  ) [Terms]
+                                  NoAddopOpt(
+                                  ) [NoAddopOpt]
+                                ) [ExprMin]
+                              ) [FactorOr11]
+                            ) [Factor5]
+                            NoMulopFOpt(
+                            ) [NoMulopFOpt]
+                          ) [Terms]
+                          NoAddopOpt(
+                          ) [NoAddopOpt]
+                        ) [ExprMin]
+                      ) [DSChoose1]
+                    ) [DesignatorStatement1]
+                  ) [StatementDesignatorStatement]
+                ) [StatL]
+                StatementRead(
+                  DesignatorYes(
+                   c
+                    NoIdenL(
+                    ) [NoIdenL]
+                    DesigRepYes(
+                      NoDesigRep(
+                      ) [NoDesigRep]
+                      DesigRepChooseDot(
+                       i
+                      ) [DesigRepChooseDot]
+                    ) [DesigRepYes]
+                  ) [DesignatorYes]
+                ) [StatementRead]
+              ) [StatL]
+              StatementDesignatorStatement(
+                DesignatorStatement1(
+                  DesignatorYes(
+                   i
+                    NoIdenL(
+                    ) [NoIdenL]
+                    NoDesigRep(
+                    ) [NoDesigRep]
+                  ) [DesignatorYes]
+                  DSChoose1(
+                    AssignopEq(
+                    ) [AssignopEq]
+                    ExprMin(
+                      NoMinOpt(
+                      ) [NoMinOpt]
+                      Terms(
+                        Factor2(
+                         0
+                        ) [Factor2]
+                        NoMulopFOpt(
+                        ) [NoMulopFOpt]
+                      ) [Terms]
+                      NoAddopOpt(
+                      ) [NoAddopOpt]
+                    ) [ExprMin]
+                  ) [DSChoose1]
+                ) [DesignatorStatement1]
+              ) [StatementDesignatorStatement]
+            ) [StatL]
+            StatementRead(
+              DesignatorYes(
+               c
+                NoIdenL(
+                ) [NoIdenL]
+                DesigRepYes(
+                  DesigRepYes(
+                    NoDesigRep(
+                    ) [NoDesigRep]
+                    DesigRepChooseDot(
+                     x
+                    ) [DesigRepChooseDot]
+                  ) [DesigRepYes]
+                  NoDesigRepChoose(
+                    ExprMin(
+                      NoMinOpt(
+                      ) [NoMinOpt]
+                      Terms(
+                        Factor1(
+                          DesignatorYes(
+                           i
+                            NoIdenL(
+                            ) [NoIdenL]
+                            NoDesigRep(
+                            ) [NoDesigRep]
+                          ) [DesignatorYes]
+                          NoFactOpt1(
+                          ) [NoFactOpt1]
+                        ) [Factor1]
+                        NoMulopFOpt(
+                        ) [NoMulopFOpt]
+                      ) [Terms]
+                      NoAddopOpt(
+                      ) [NoAddopOpt]
+                    ) [ExprMin]
+                  ) [NoDesigRepChoose]
+                ) [DesigRepYes]
+              ) [DesignatorYes]
+            ) [StatementRead]
+          ) [StatL]
+          StatementRead(
+            DesignatorYes(
+             c
+              NoIdenL(
+              ) [NoIdenL]
+              DesigRepYes(
+                DesigRepYes(
+                  DesigRepYes(
+                    NoDesigRep(
+                    ) [NoDesigRep]
+                    DesigRepChooseDot(
+                     theA
+                    ) [DesigRepChooseDot]
+                  ) [DesigRepYes]
+                  DesigRepChooseDot(
+                   x
+                  ) [DesigRepChooseDot]
+                ) [DesigRepYes]
+                NoDesigRepChoose(
+                  ExprMin(
+                    NoMinOpt(
+                    ) [NoMinOpt]
+                    Terms(
+                      Factor1(
+                        DesignatorYes(
+                         i
+                          NoIdenL(
+                          ) [NoIdenL]
+                          NoDesigRep(
+                          ) [NoDesigRep]
+                        ) [DesignatorYes]
+                        NoFactOpt1(
+                        ) [NoFactOpt1]
+                      ) [Factor1]
+                      NoMulopFOpt(
+                      ) [NoMulopFOpt]
+                    ) [Terms]
+                    NoAddopOpt(
+                    ) [NoAddopOpt]
+                  ) [ExprMin]
+                ) [NoDesigRepChoose]
+              ) [DesigRepYes]
+            ) [DesignatorYes]
+          ) [StatementRead]
+        ) [StatL]
+        StatementDesignatorStatement(
+          DesignatorStatement1(
+            DesignatorYes(
+             i
+              NoIdenL(
+              ) [NoIdenL]
+              NoDesigRep(
+              ) [NoDesigRep]
+            ) [DesignatorYes]
+            DSChoose3(
+            ) [DSChoose3]
+          ) [DesignatorStatement1]
+        ) [StatementDesignatorStatement]
+      ) [StatL]
+    ) [MthodDecl]
+  ) [MthList]
+) [Prgram]
+INFO  18:11:40,654 - ===================================

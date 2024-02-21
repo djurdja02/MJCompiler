@@ -1,0 +1,364 @@
+INFO  12:39:13,360 - Compiling source file: C:\Users\Laptop\Desktop\pp1\workspace\MJCompiler\test\program.mj
+INFO  12:39:13,408 - #2 program
+INFO  12:39:13,408 - #45 molim
+INFO  12:39:13,408 - #17 namespace
+INFO  12:39:13,409 - #45 std
+INFO  12:39:13,409 - #42 {
+INFO  12:39:13,409 - #6 const
+INFO  12:39:13,410 - #45 int
+INFO  12:39:13,410 - #45 x
+INFO  12:39:13,410 - #31 =
+INFO  12:39:13,411 - #48 5
+INFO  12:39:13,411 - #34 ;
+INFO  12:39:13,411 - #45 int
+INFO  12:39:13,412 - #45 y
+INFO  12:39:13,412 - #36 ,
+INFO  12:39:13,413 - #45 z
+INFO  12:39:13,413 - #34 ;
+INFO  12:39:13,414 - #42 {
+INFO  12:39:13,414 - #43 }
+INFO  12:39:13,414 - #43 }
+INFO  12:39:13,415 - #17 namespace
+INFO  12:39:13,415 - #45 djuro
+INFO  12:39:13,415 - #42 {
+INFO  12:39:13,415 - #45 int
+INFO  12:39:13,415 - #45 y
+INFO  12:39:13,415 - #40 [
+INFO  12:39:13,415 - #41 ]
+INFO  12:39:13,415 - #36 ,
+INFO  12:39:13,417 - #45 z
+INFO  12:39:13,417 - #34 ;
+INFO  12:39:13,417 - #42 {
+INFO  12:39:13,417 - #45 int
+INFO  12:39:13,417 - #45 getValue
+INFO  12:39:13,417 - #38 (
+INFO  12:39:13,417 - #45 int
+INFO  12:39:13,418 - #45 a
+INFO  12:39:13,418 - #36 ,
+INFO  12:39:13,418 - #45 bool
+INFO  12:39:13,418 - #45 k
+INFO  12:39:13,419 - #39 )
+INFO  12:39:13,419 - #45 int
+INFO  12:39:13,419 - #45 c
+INFO  12:39:13,420 - #34 ;
+INFO  12:39:13,420 - #45 bool
+INFO  12:39:13,420 - #45 d
+INFO  12:39:13,420 - #34 ;
+INFO  12:39:13,420 - #42 {
+INFO  12:39:13,420 - #43 }
+INFO  12:39:13,421 - #43 }
+INFO  12:39:13,421 - #43 }
+INFO  12:39:13,421 - #45 int
+INFO  12:39:13,421 - #45 y
+INFO  12:39:13,421 - #36 ,
+INFO  12:39:13,421 - #45 z
+INFO  12:39:13,421 - #34 ;
+INFO  12:39:13,421 - #6 const
+INFO  12:39:13,421 - #45 char
+INFO  12:39:13,421 - #45 c
+INFO  12:39:13,421 - #31 =
+INFO  12:39:13,422 - #47 a
+INFO  12:39:13,422 - #34 ;
+INFO  12:39:13,422 - #6 const
+INFO  12:39:13,422 - #45 bool
+INFO  12:39:13,422 - #45 a
+INFO  12:39:13,422 - #31 =
+INFO  12:39:13,422 - #46 true
+INFO  12:39:13,422 - #34 ;
+INFO  12:39:13,422 - #42 {
+INFO  12:39:13,423 - #45 int
+INFO  12:39:13,423 - #45 getValue
+INFO  12:39:13,423 - #38 (
+INFO  12:39:13,423 - #45 int
+INFO  12:39:13,423 - #45 a
+INFO  12:39:13,423 - #36 ,
+INFO  12:39:13,423 - #45 bool
+INFO  12:39:13,423 - #45 k
+INFO  12:39:13,423 - #39 )
+INFO  12:39:13,423 - #45 std
+INFO  12:39:13,423 - #35 :
+INFO  12:39:13,423 - #35 :
+INFO  12:39:13,423 - #45 int
+INFO  12:39:13,423 - #45 c
+INFO  12:39:13,423 - #34 ;
+INFO  12:39:13,424 - #45 bool
+INFO  12:39:13,424 - #45 d
+INFO  12:39:13,424 - #34 ;
+INFO  12:39:13,424 - #42 {
+INFO  12:39:13,424 - #43 }
+INFO  12:39:13,424 - #43 }
+INFO  12:39:13,425 - Prgram(
+ molim
+  NmespaceList(
+    NmespaceList(
+      NoNamespaceList(
+      ) [NoNamespaceList]
+     std
+      DclList(
+        DclList(
+          NoDeclList(
+          ) [NoDeclList]
+          DclConstClass(
+            CnstD(
+              Typee(
+               int
+                NoIdenL(
+                ) [NoIdenL]
+              ) [Typee]
+             x
+              ConstantNUM(
+               5
+              ) [ConstantNUM]
+              ConstDListDerived1(
+              ) [ConstDListDerived1]
+            ) [CnstD]
+          ) [DclConstClass]
+        ) [DclList]
+        DclVarClass(
+          VrD(
+            Typee(
+             int
+              NoIdenL(
+              ) [NoIdenL]
+            ) [Typee]
+           y
+            NoBrackets(
+            ) [NoBrackets]
+            VrDList(
+              NoVarDList(
+              ) [NoVarDList]
+             z
+              NoBrackets(
+              ) [NoBrackets]
+            ) [VrDList]
+          ) [VrD]
+        ) [DclVarClass]
+      ) [DclList]
+      NoMethList(
+      ) [NoMethList]
+    ) [NmespaceList]
+   djuro
+    DclList(
+      NoDeclList(
+      ) [NoDeclList]
+      DclVarClass(
+        VrD(
+          Typee(
+           int
+            NoIdenL(
+            ) [NoIdenL]
+          ) [Typee]
+         y
+          Brckets(
+          ) [Brckets]
+          VrDList(
+            NoVarDList(
+            ) [NoVarDList]
+           z
+            NoBrackets(
+            ) [NoBrackets]
+          ) [VrDList]
+        ) [VrD]
+      ) [DclVarClass]
+    ) [DclList]
+    MthList(
+      NoMethList(
+      ) [NoMethList]
+      MthodDecl(
+        TypeListType(
+          Typee(
+           int
+            NoIdenL(
+            ) [NoIdenL]
+          ) [Typee]
+        ) [TypeListType]
+       getValue
+        FormLst(
+          FormParm(
+            Typee(
+             int
+              NoIdenL(
+              ) [NoIdenL]
+            ) [Typee]
+           a
+            NoBrackets(
+            ) [NoBrackets]
+            FrmL(
+              NoFormL(
+              ) [NoFormL]
+              Typee(
+               bool
+                NoIdenL(
+                ) [NoIdenL]
+              ) [Typee]
+             k
+              NoBrackets(
+              ) [NoBrackets]
+            ) [FrmL]
+          ) [FormParm]
+        ) [FormLst]
+        VarDeclLst(
+          VarDeclLst(
+            NoVarDeclList(
+            ) [NoVarDeclList]
+            VrD(
+              Typee(
+               int
+                NoIdenL(
+                ) [NoIdenL]
+              ) [Typee]
+             c
+              NoBrackets(
+              ) [NoBrackets]
+              NoVarDList(
+              ) [NoVarDList]
+            ) [VrD]
+          ) [VarDeclLst]
+          VrD(
+            Typee(
+             bool
+              NoIdenL(
+              ) [NoIdenL]
+            ) [Typee]
+           d
+            NoBrackets(
+            ) [NoBrackets]
+            NoVarDList(
+            ) [NoVarDList]
+          ) [VrD]
+        ) [VarDeclLst]
+        NoStateL(
+        ) [NoStateL]
+      ) [MthodDecl]
+    ) [MthList]
+  ) [NmespaceList]
+  DclList(
+    DclList(
+      DclList(
+        NoDeclList(
+        ) [NoDeclList]
+        DclVarClass(
+          VrD(
+            Typee(
+             int
+              NoIdenL(
+              ) [NoIdenL]
+            ) [Typee]
+           y
+            NoBrackets(
+            ) [NoBrackets]
+            VrDList(
+              NoVarDList(
+              ) [NoVarDList]
+             z
+              NoBrackets(
+              ) [NoBrackets]
+            ) [VrDList]
+          ) [VrD]
+        ) [DclVarClass]
+      ) [DclList]
+      DclConstClass(
+        CnstD(
+          Typee(
+           char
+            NoIdenL(
+            ) [NoIdenL]
+          ) [Typee]
+         c
+          ConstantChar(
+           a
+          ) [ConstantChar]
+          ConstDListDerived1(
+          ) [ConstDListDerived1]
+        ) [CnstD]
+      ) [DclConstClass]
+    ) [DclList]
+    DclConstClass(
+      CnstD(
+        Typee(
+         bool
+          NoIdenL(
+          ) [NoIdenL]
+        ) [Typee]
+       a
+        ConstantBool(
+         true
+        ) [ConstantBool]
+        ConstDListDerived1(
+        ) [ConstDListDerived1]
+      ) [CnstD]
+    ) [DclConstClass]
+  ) [DclList]
+  MthList(
+    NoMethList(
+    ) [NoMethList]
+    MthodDecl(
+      TypeListType(
+        Typee(
+         int
+          NoIdenL(
+          ) [NoIdenL]
+        ) [Typee]
+      ) [TypeListType]
+     getValue
+      FormLst(
+        FormParm(
+          Typee(
+           int
+            NoIdenL(
+            ) [NoIdenL]
+          ) [Typee]
+         a
+          NoBrackets(
+          ) [NoBrackets]
+          FrmL(
+            NoFormL(
+            ) [NoFormL]
+            Typee(
+             bool
+              NoIdenL(
+              ) [NoIdenL]
+            ) [Typee]
+           k
+            NoBrackets(
+            ) [NoBrackets]
+          ) [FrmL]
+        ) [FormParm]
+      ) [FormLst]
+      VarDeclLst(
+        VarDeclLst(
+          NoVarDeclList(
+          ) [NoVarDeclList]
+          VrD(
+            Typee(
+             std
+              IdenLi(
+               int
+              ) [IdenLi]
+            ) [Typee]
+           c
+            NoBrackets(
+            ) [NoBrackets]
+            NoVarDList(
+            ) [NoVarDList]
+          ) [VrD]
+        ) [VarDeclLst]
+        VrD(
+          Typee(
+           bool
+            NoIdenL(
+            ) [NoIdenL]
+          ) [Typee]
+         d
+          NoBrackets(
+          ) [NoBrackets]
+          NoVarDList(
+          ) [NoVarDList]
+        ) [VrD]
+      ) [VarDeclLst]
+      NoStateL(
+      ) [NoStateL]
+    ) [MthodDecl]
+  ) [MthList]
+) [Prgram]
+INFO  12:39:13,425 - ===================================

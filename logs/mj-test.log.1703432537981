@@ -1,0 +1,182 @@
+INFO  16:41:37,626 - Compiling source file: C:\Users\Laptop\Desktop\pp1\workspace\MJCompiler\test\program.mj
+INFO  16:41:37,816 - #2 program
+INFO  16:41:37,816 - #45 test302
+INFO  16:41:37,816 - #17 namespace
+INFO  16:41:37,819 - #45 Addition
+INFO  16:41:37,819 - #42 {
+INFO  16:41:37,822 - #42 {
+INFO  16:41:37,825 - #45 int
+INFO  16:41:37,827 - #45 sum
+INFO  16:41:37,830 - #38 (
+INFO  16:41:37,832 - #45 int
+INFO  16:41:37,832 - #45 z
+INFO  16:41:37,832 - #36 ,
+INFO  16:41:37,837 - #45 int
+INFO  16:41:37,838 - #45 d
+INFO  16:41:37,838 - #39 )
+INFO  16:41:37,842 - #42 {
+INFO  16:41:37,844 - #11 return
+INFO  16:41:37,845 - #45 z
+INFO  16:41:37,848 - #18 +
+INFO  16:41:37,857 - #45 d
+INFO  16:41:37,860 - #34 ;
+INFO  16:41:37,864 - #43 }
+INFO  16:41:37,864 - #43 }
+INFO  16:41:37,866 - #17 namespace
+ERROR 16:41:37,866 - 
+Sintaksna greska (namespace) na liniji 16
+INFO  16:41:37,867 - #45 Unpacking
+INFO  16:41:37,867 - #42 {
+INFO  16:41:37,867 - #45 int
+INFO  16:41:37,867 - #45 niz
+INFO  16:41:37,867 - #40 [
+INFO  16:41:37,867 - #41 ]
+INFO  16:41:37,867 - #36 ,
+INFO  16:41:37,867 - #45 niz2
+INFO  16:41:37,868 - #40 [
+INFO  16:41:37,868 - #41 ]
+INFO  16:41:37,868 - #36 ,
+INFO  16:41:37,868 - #45 niz3
+INFO  16:41:37,868 - #40 [
+INFO  16:41:37,868 - #41 ]
+INFO  16:41:37,868 - #34 ;
+INFO  16:41:37,868 - #45 int
+INFO  16:41:37,868 - #45 a
+INFO  16:41:37,868 - #36 ,
+ERROR 16:41:37,868 - Izvrsen oporavak do ; 
+INFO  16:41:37,875 - #45 b
+INFO  16:41:37,875 - #34 ;
+INFO  16:41:37,877 - #42 {
+INFO  16:41:37,879 - #12 void
+INFO  16:41:37,879 - #45 kut
+INFO  16:41:37,882 - #38 (
+INFO  16:41:37,882 - #45 int
+INFO  16:41:37,882 - #45 k
+INFO  16:41:37,882 - #36 ,
+INFO  16:41:37,882 - #45 int
+INFO  16:41:37,882 - #45 l
+INFO  16:41:37,882 - #39 )
+INFO  16:41:37,882 - #42 {
+INFO  16:41:37,882 - #43 }
+INFO  16:41:37,882 - #43 }
+INFO  16:41:37,882 - #43 }
+INFO  16:41:37,882 - #42 {
+INFO  16:41:37,884 - #12 void
+INFO  16:41:37,884 - #45 main
+INFO  16:41:37,885 - #38 (
+INFO  16:41:37,885 - #39 )
+INFO  16:41:37,885 - #42 {
+INFO  16:41:37,887 - #43 }
+INFO  16:41:37,887 - #43 }
+INFO  16:41:37,893 - Deklarisana promenljiva b na liniji 18
+INFO  16:41:37,893 - Deklarisana promenljiva a na liniji 18
+INFO  16:41:37,894 - Obradjuje se funkcija kut na liniji 21
+INFO  16:41:37,894 - Dodat je argument funkcije l na liniji 21
+INFO  16:41:37,894 - Dodat je argument funkcije k na liniji 21
+INFO  16:41:37,894 - Obradjuje se funkcija main na liniji 30
+INFO  16:41:37,894 - Program(
+  Progname(
+   test302
+  ) [Progname]
+  NmespaceList(
+    NoNamespaceList(
+    ) [NoNamespaceList]
+    Namespace(
+      NamespaceName(
+       Addition
+      ) [NamespaceName]
+      DclList(
+        DclList(
+          NoDeclList(
+          ) [NoDeclList]
+          ErrorGlobalSemi(
+          ) [ErrorGlobalSemi]
+        ) [DclList]
+        DclVarClass(
+          VarD(
+            VarType(
+              Type(
+               int
+                NoIdenL(
+                ) [NoIdenL]
+              ) [Type]
+            ) [VarType]
+           a
+            NoBrackets(
+            ) [NoBrackets]
+            VrDList(
+              NoVarDList(
+              ) [NoVarDList]
+              VarDListNotNull(
+               b
+                NoBrackets(
+                ) [NoBrackets]
+              ) [VarDListNotNull]
+            ) [VrDList]
+          ) [VarD]
+        ) [DclVarClass]
+      ) [DclList]
+      MthList(
+        NoMethList(
+        ) [NoMethList]
+        MethodDecl(
+          MethodName(
+            TypeListVoid(
+            ) [TypeListVoid]
+           kut
+          ) [MethodName]
+          FormLst(
+            FormParam(
+              Type(
+               int
+                NoIdenL(
+                ) [NoIdenL]
+              ) [Type]
+             k
+              NoBrackets(
+              ) [NoBrackets]
+              FrmL(
+                NoFormL(
+                ) [NoFormL]
+                FormLiKK(
+                  Type(
+                   int
+                    NoIdenL(
+                    ) [NoIdenL]
+                  ) [Type]
+                 l
+                  NoBrackets(
+                  ) [NoBrackets]
+                ) [FormLiKK]
+              ) [FrmL]
+            ) [FormParam]
+          ) [FormLst]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+          NoStateL(
+          ) [NoStateL]
+        ) [MethodDecl]
+      ) [MthList]
+    ) [Namespace]
+  ) [NmespaceList]
+  NoDeclList(
+  ) [NoDeclList]
+  MthList(
+    NoMethList(
+    ) [NoMethList]
+    MethodDecl(
+      MethodName(
+        TypeListVoid(
+        ) [TypeListVoid]
+       main
+      ) [MethodName]
+      NoFormList(
+      ) [NoFormList]
+      NoVarDeclList(
+      ) [NoVarDeclList]
+      NoStateL(
+      ) [NoStateL]
+    ) [MethodDecl]
+  ) [MthList]
+) [Program]
+INFO  16:41:37,894 - ===================================

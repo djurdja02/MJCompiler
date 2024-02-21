@@ -1,0 +1,8 @@
+INFO  14:08:35,075 - Compiling source file: C:\Users\Laptop\Desktop\pp1\workspace\MJCompiler\test\program.mj
+INFO  14:08:35,151 - #2 program
+INFO  14:08:35,151 - #45 MatrixExample
+INFO  14:08:35,152 - #42 {
+INFO  14:08:35,153 - #17 namespace
+ERROR 14:08:35,153 - 
+Sintaksna greska (namespace) na liniji 4
+ERROR 14:08:35,153 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 4

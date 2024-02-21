@@ -1,0 +1,258 @@
+INFO  12:36:12,499 - Compiling source file: C:\Users\Laptop\Desktop\pp1\workspace\MJCompiler\test\program.mj
+INFO  12:36:12,685 - #2 program
+INFO  12:36:12,685 - #45 molim
+INFO  12:36:12,685 - #17 namespace
+INFO  12:36:12,687 - #45 std
+INFO  12:36:12,687 - #42 {
+INFO  12:36:12,687 - #6 const
+INFO  12:36:12,689 - #45 int
+INFO  12:36:12,689 - #45 x
+INFO  12:36:12,690 - #31 =
+INFO  12:36:12,691 - #48 5
+INFO  12:36:12,691 - #34 ;
+INFO  12:36:12,692 - #45 int
+INFO  12:36:12,692 - #45 y
+INFO  12:36:12,692 - #36 ,
+INFO  12:36:12,696 - #45 z
+INFO  12:36:12,696 - #34 ;
+INFO  12:36:12,696 - #42 {
+INFO  12:36:12,696 - #43 }
+INFO  12:36:12,699 - #43 }
+INFO  12:36:12,699 - #17 namespace
+INFO  12:36:12,699 - #45 djuro
+INFO  12:36:12,700 - #42 {
+INFO  12:36:12,700 - #45 int
+INFO  12:36:12,700 - #45 y
+INFO  12:36:12,700 - #40 [
+INFO  12:36:12,701 - #41 ]
+INFO  12:36:12,701 - #36 ,
+INFO  12:36:12,703 - #45 z
+INFO  12:36:12,703 - #34 ;
+INFO  12:36:12,703 - #42 {
+INFO  12:36:12,703 - #45 int
+INFO  12:36:12,703 - #45 getValue
+INFO  12:36:12,703 - #38 (
+INFO  12:36:12,703 - #45 int
+INFO  12:36:12,703 - #45 a
+INFO  12:36:12,703 - #36 ,
+INFO  12:36:12,705 - #45 bool
+INFO  12:36:12,706 - #45 k
+INFO  12:36:12,706 - #39 )
+INFO  12:36:12,706 - #45 int
+INFO  12:36:12,708 - #45 c
+INFO  12:36:12,708 - #34 ;
+INFO  12:36:12,708 - #42 {
+INFO  12:36:12,708 - #43 }
+INFO  12:36:12,710 - #43 }
+INFO  12:36:12,710 - #43 }
+INFO  12:36:12,711 - #45 int
+INFO  12:36:12,711 - #45 y
+INFO  12:36:12,711 - #36 ,
+INFO  12:36:12,711 - #45 z
+INFO  12:36:12,711 - #34 ;
+INFO  12:36:12,711 - #6 const
+INFO  12:36:12,711 - #45 char
+INFO  12:36:12,751 - #45 c
+INFO  12:36:12,751 - #31 =
+INFO  12:36:12,751 - #47 a
+INFO  12:36:12,751 - #34 ;
+INFO  12:36:12,752 - #6 const
+INFO  12:36:12,752 - #45 bool
+INFO  12:36:12,752 - #45 a
+INFO  12:36:12,753 - #31 =
+INFO  12:36:12,753 - #46 true
+INFO  12:36:12,753 - #34 ;
+INFO  12:36:12,753 - #42 {
+INFO  12:36:12,754 - #43 }
+INFO  12:36:12,756 - Prgram(
+ molim
+  NmespaceList(
+    NmespaceList(
+      NoNamespaceList(
+      ) [NoNamespaceList]
+     std
+      DclList(
+        DclList(
+          NoDeclList(
+          ) [NoDeclList]
+          DclConstClass(
+            CnstD(
+              Typee(
+               int
+                NoIdenL(
+                ) [NoIdenL]
+              ) [Typee]
+             x
+              ConstantNUM(
+               5
+              ) [ConstantNUM]
+              ConstDListDerived1(
+              ) [ConstDListDerived1]
+            ) [CnstD]
+          ) [DclConstClass]
+        ) [DclList]
+        DclVarClass(
+          VrD(
+            Typee(
+             int
+              NoIdenL(
+              ) [NoIdenL]
+            ) [Typee]
+           y
+            NoBrackets(
+            ) [NoBrackets]
+            VrDList(
+              NoVarDList(
+              ) [NoVarDList]
+             z
+              NoBrackets(
+              ) [NoBrackets]
+            ) [VrDList]
+          ) [VrD]
+        ) [DclVarClass]
+      ) [DclList]
+      NoMethList(
+      ) [NoMethList]
+    ) [NmespaceList]
+   djuro
+    DclList(
+      NoDeclList(
+      ) [NoDeclList]
+      DclVarClass(
+        VrD(
+          Typee(
+           int
+            NoIdenL(
+            ) [NoIdenL]
+          ) [Typee]
+         y
+          Brckets(
+          ) [Brckets]
+          VrDList(
+            NoVarDList(
+            ) [NoVarDList]
+           z
+            NoBrackets(
+            ) [NoBrackets]
+          ) [VrDList]
+        ) [VrD]
+      ) [DclVarClass]
+    ) [DclList]
+    MthList(
+      NoMethList(
+      ) [NoMethList]
+      MthodDecl(
+        TypeListType(
+          Typee(
+           int
+            NoIdenL(
+            ) [NoIdenL]
+          ) [Typee]
+        ) [TypeListType]
+       getValue
+        FormLst(
+          FormParm(
+            Typee(
+             int
+              NoIdenL(
+              ) [NoIdenL]
+            ) [Typee]
+           a
+            NoBrackets(
+            ) [NoBrackets]
+            FrmL(
+              NoFormL(
+              ) [NoFormL]
+              Typee(
+               bool
+                NoIdenL(
+                ) [NoIdenL]
+              ) [Typee]
+             k
+              NoBrackets(
+              ) [NoBrackets]
+            ) [FrmL]
+          ) [FormParm]
+        ) [FormLst]
+        VarDeclLst(
+          NoVarDeclList(
+          ) [NoVarDeclList]
+          VrD(
+            Typee(
+             int
+              NoIdenL(
+              ) [NoIdenL]
+            ) [Typee]
+           c
+            NoBrackets(
+            ) [NoBrackets]
+            NoVarDList(
+            ) [NoVarDList]
+          ) [VrD]
+        ) [VarDeclLst]
+        NoStateL(
+        ) [NoStateL]
+      ) [MthodDecl]
+    ) [MthList]
+  ) [NmespaceList]
+  DclList(
+    DclList(
+      DclList(
+        NoDeclList(
+        ) [NoDeclList]
+        DclVarClass(
+          VrD(
+            Typee(
+             int
+              NoIdenL(
+              ) [NoIdenL]
+            ) [Typee]
+           y
+            NoBrackets(
+            ) [NoBrackets]
+            VrDList(
+              NoVarDList(
+              ) [NoVarDList]
+             z
+              NoBrackets(
+              ) [NoBrackets]
+            ) [VrDList]
+          ) [VrD]
+        ) [DclVarClass]
+      ) [DclList]
+      DclConstClass(
+        CnstD(
+          Typee(
+           char
+            NoIdenL(
+            ) [NoIdenL]
+          ) [Typee]
+         c
+          ConstantChar(
+           a
+          ) [ConstantChar]
+          ConstDListDerived1(
+          ) [ConstDListDerived1]
+        ) [CnstD]
+      ) [DclConstClass]
+    ) [DclList]
+    DclConstClass(
+      CnstD(
+        Typee(
+         bool
+          NoIdenL(
+          ) [NoIdenL]
+        ) [Typee]
+       a
+        ConstantBool(
+         true
+        ) [ConstantBool]
+        ConstDListDerived1(
+        ) [ConstDListDerived1]
+      ) [CnstD]
+    ) [DclConstClass]
+  ) [DclList]
+  NoMethList(
+  ) [NoMethList]
+) [Prgram]
+INFO  12:36:12,756 - ===================================

@@ -1,0 +1,23 @@
+INFO  13:24:44,473 - Compiling source file: C:\Users\Laptop\Desktop\pp1\workspace\MJCompiler\test\program.mj
+INFO  13:24:44,552 - #2 program
+INFO  13:24:44,552 - #45 test302
+INFO  13:24:44,552 - #17 namespace
+INFO  13:24:44,553 - #45 Addition
+INFO  13:24:44,553 - #42 {
+INFO  13:24:44,553 - #6 const
+INFO  13:24:44,554 - #45 int
+INFO  13:24:44,555 - #45 x
+INFO  13:24:44,555 - #31 =
+INFO  13:24:44,555 - #48 5
+INFO  13:24:44,555 - #36 ,
+ERROR 13:24:44,556 - 
+Sintaksna greska (,) na liniji 7
+INFO  13:24:44,556 - #45 int
+INFO  13:24:44,556 - #45 y
+INFO  13:24:44,556 - #31 =
+INFO  13:24:44,557 - #48 10
+INFO  13:24:44,557 - #36 ,
+INFO  13:24:44,557 - #45 k
+INFO  13:24:44,557 - #31 =
+INFO  13:24:44,558 - #48 5
+INFO  13:24:44,559 - #34 ;

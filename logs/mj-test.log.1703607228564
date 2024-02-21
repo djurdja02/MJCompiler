@@ -1,0 +1,52 @@
+INFO  17:13:22,169 - Compiling source file: C:\Users\Laptop\Desktop\pp1\workspace\MJCompiler\test\program.mj
+INFO  17:13:22,228 - #2 program
+INFO  17:13:22,228 - #45 test302
+INFO  17:13:22,228 - #17 namespace
+INFO  17:13:22,231 - #45 Addition
+INFO  17:13:22,231 - #42 {
+INFO  17:13:22,232 - #42 {
+INFO  17:13:22,232 - #45 int
+INFO  17:13:22,233 - #45 sum
+INFO  17:13:22,236 - #38 (
+INFO  17:13:22,236 - #45 int
+INFO  17:13:22,236 - #45 z
+INFO  17:13:22,236 - #36 ,
+INFO  17:13:22,240 - #45 int
+INFO  17:13:22,240 - #45 d
+INFO  17:13:22,240 - #39 )
+INFO  17:13:22,243 - #42 {
+INFO  17:13:22,244 - #11 return
+INFO  17:13:22,245 - #45 z
+INFO  17:13:22,247 - #18 +
+INFO  17:13:22,252 - #45 d
+INFO  17:13:22,253 - #34 ;
+INFO  17:13:22,256 - #43 }
+INFO  17:13:22,256 - #45 int
+INFO  17:13:22,257 - #45 inkrement
+INFO  17:13:22,257 - #38 (
+INFO  17:13:22,257 - #45 int
+INFO  17:13:22,257 - #45 a
+INFO  17:13:22,257 - #36 ,
+INFO  17:13:22,257 - #45 int
+INFO  17:13:22,257 - #45 inc
+INFO  17:13:22,258 - #39 )
+INFO  17:13:22,258 - #42 {
+INFO  17:13:22,258 - #11 return
+INFO  17:13:22,258 - #45 sum
+INFO  17:13:22,258 - #38 (
+INFO  17:13:22,258 - #45 pom
+INFO  17:13:22,258 - #39 )
+INFO  17:13:22,259 - #34 ;
+INFO  17:13:22,259 - #43 }
+INFO  17:13:22,259 - #43 }
+INFO  17:13:22,261 - #43 }
+INFO  17:13:22,261 - #12 void
+ERROR 17:13:22,261 - 
+Sintaksna greska (void) na liniji 27
+INFO  17:13:22,261 - #45 main
+INFO  17:13:22,261 - #38 (
+INFO  17:13:22,261 - #39 )
+INFO  17:13:22,264 - #42 {
+INFO  17:13:22,265 - #43 }
+INFO  17:13:22,265 - #43 }
+ERROR 17:13:22,265 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 33

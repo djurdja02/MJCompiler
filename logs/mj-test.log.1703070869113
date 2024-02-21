@@ -1,0 +1,51 @@
+INFO  12:11:05,925 - Compiling source file: C:\Users\Laptop\Desktop\pp1\workspace\MJCompiler\test\program.mj
+INFO  12:11:06,210 - #2 program
+INFO  12:11:06,211 - #45 main
+INFO  12:11:06,211 - #17 namespace
+INFO  12:11:06,213 - #45 std
+INFO  12:11:06,214 - #42 {
+INFO  12:11:06,214 - #6 const
+INFO  12:11:06,217 - #45 int
+INFO  12:11:06,217 - #45 x
+INFO  12:11:06,219 - #31 =
+INFO  12:11:06,219 - #48 5
+INFO  12:11:06,219 - #34 ;
+INFO  12:11:06,222 - #42 {
+INFO  12:11:06,222 - #43 }
+INFO  12:11:06,225 - #43 }
+INFO  12:11:06,225 - #42 {
+INFO  12:11:06,225 - #43 }
+INFO  12:11:06,226 - Prgram(
+ main
+  NmespaceList(
+    NoNamespaceList(
+    ) [NoNamespaceList]
+   std
+    DclList(
+      NoDeclList(
+      ) [NoDeclList]
+      DclConstClass(
+        CnstD(
+          Typee(
+           int
+            NoIdenL(
+            ) [NoIdenL]
+          ) [Typee]
+         x
+          ConstantNUM(
+           5
+          ) [ConstantNUM]
+          ConstDListDerived1(
+          ) [ConstDListDerived1]
+        ) [CnstD]
+      ) [DclConstClass]
+    ) [DclList]
+    NoMethList(
+    ) [NoMethList]
+  ) [NmespaceList]
+  NoDeclList(
+  ) [NoDeclList]
+  NoMethList(
+  ) [NoMethList]
+) [Prgram]
+INFO  12:11:06,227 - ===================================

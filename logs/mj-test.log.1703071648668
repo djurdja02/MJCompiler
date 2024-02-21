@@ -1,0 +1,41 @@
+INFO  12:27:17,482 - Compiling source file: C:\Users\Laptop\Desktop\pp1\workspace\MJCompiler\test\program.mj
+INFO  12:27:17,531 - #2 program
+INFO  12:27:17,531 - #45 molim
+INFO  12:27:17,532 - #17 namespace
+INFO  12:27:17,532 - #45 std
+INFO  12:27:17,532 - #42 {
+INFO  12:27:17,532 - #6 const
+INFO  12:27:17,533 - #45 int
+INFO  12:27:17,533 - #45 x
+INFO  12:27:17,533 - #31 =
+INFO  12:27:17,533 - #48 5
+INFO  12:27:17,533 - #34 ;
+INFO  12:27:17,534 - #45 int
+INFO  12:27:17,534 - #45 y
+INFO  12:27:17,534 - #36 ,
+INFO  12:27:17,536 - #45 z
+INFO  12:27:17,536 - #34 ;
+INFO  12:27:17,536 - #42 {
+INFO  12:27:17,536 - #43 }
+INFO  12:27:17,537 - #43 }
+INFO  12:27:17,537 - #17 namespace
+INFO  12:27:17,537 - #45 djuro
+INFO  12:27:17,539 - #42 {
+INFO  12:27:17,539 - #45 int
+INFO  12:27:17,539 - #45 y
+INFO  12:27:17,539 - #40 [
+INFO  12:27:17,539 - #41 ]
+INFO  12:27:17,539 - #36 ,
+INFO  12:27:17,539 - #45 z
+INFO  12:27:17,539 - #34 ;
+INFO  12:27:17,540 - #42 {
+INFO  12:27:17,540 - #45 int
+INFO  12:27:17,540 - #45 getValue
+INFO  12:27:17,540 - #38 (
+INFO  12:27:17,540 - #45 int
+INFO  12:27:17,540 - #45 a
+INFO  12:27:17,540 - #39 )
+INFO  12:27:17,541 - #45 int
+ERROR 12:27:17,541 - 
+Sintaksna greska (int) na liniji 12
+ERROR 12:27:17,541 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 12
